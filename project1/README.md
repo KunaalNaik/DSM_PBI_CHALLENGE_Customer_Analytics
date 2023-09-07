@@ -1,6 +1,6 @@
 # Retail Dashboard Project
 
-![Retail Dashboard](project1/Retail_Dashboard_image.png)
+![Retail Dashboard](Retail_Dashboard_image.png)
 
 #### **Objective**
 

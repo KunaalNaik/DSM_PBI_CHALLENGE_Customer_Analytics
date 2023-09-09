@@ -1,0 +1,1001 @@
+Date,PropertyID,PropertyType,IsOccupied,MonthlyRevenue,RentalLength,MaintenanceCost,MaintenanceIssueLogged,CustomerSatisfaction
+2022-12-02,ca96de89-56dc-451a-920e-a536341b51c6,Condo,True,1012.0228935994588,14,772.4968489994696,Quality move remain themselves billion factor carry.,17.451423269325183
+2021-09-28,7f2b5551-097b-4f1c-a1c6-79aa58d7209e,Townhouse,False,0.0,0,796.2257121618824,Until yeah worry authority stay.,
+2022-09-09,757d7acc-81e8-4876-bf7b-e2ea6c810767,Townhouse,False,0.0,0,258.06495896964464,Sport act myself.,
+2021-10-19,567a3e11-735b-476b-81cb-7b9411e7d51a,Apartment,False,0.0,0,828.8611079758299,Treat side performance mouth.,
+2022-08-29,ee175470-1ce1-44fb-92f5-ff3fa0b7c3ff,Apartment,True,2751.4355149746943,13,193.0951423910567,Throughout dog Republican start owner partner.,17.43165624765066
+2022-06-11,e609ca6a-0fc4-42d5-96cd-62e662b446ca,Townhouse,True,8184.314654762126,6,318.06466219594483,Such land father field individual power.,10.425860666781217
+2023-08-22,24186dc8-5515-4404-88c0-af3ffa3e461a,Apartment,True,9599.145160212332,12,550.7327664764766,Son beyond three expert seat series.,13.059945139396556
+2023-05-11,ad42a832-8bc6-42f5-aa43-c6fe3b6038d2,Townhouse,True,3630.533850540968,5,975.7193925454116,Face nation science feeling address.,80.44698976447887
+2022-03-27,c494b291-287d-4c15-bf58-637c1e93e851,House,True,7914.41330312413,2,839.2859752927825,Look enough tonight its consider without.,9.30320498594359
+2023-08-28,d50aa7d2-0405-4dc9-8d94-519572530e5c,Apartment,True,3442.339644996143,3,388.8929017923731,Trade culture up late interesting keep eye.,3.1879880056180587
+2022-09-04,fc9b17bd-145d-40fe-a610-3d58e0326536,House,True,4749.711490791413,21,349.00485303165965,Decision might that model.,86.76795746137536
+2022-06-18,8d516b72-17a3-465d-bd0d-fa38830712e5,House,False,0.0,0,188.37558802848264,Chance sign group top.,
+2022-06-04,a9a6b2ad-fa4f-479b-871b-ed33cb813f5f,Apartment,True,2807.6249395111536,7,756.515128422983,Their house particularly become subject American focus former.,52.242953711011594
+2023-01-12,45b130e8-b4aa-478b-9a7b-328a24549452,Townhouse,True,4919.524596609611,15,236.6425724679681,Production firm everybody guy our or leg story.,39.07910413686705
+2023-04-27,55ac5447-7093-48bc-bccd-6444a27dfa0c,House,True,5771.993032124153,6,536.8549796891239,Usually rest anything race.,62.548685929502376
+2023-03-12,fc2fa024-b160-4b23-a141-580101433d62,House,True,4336.285462792519,2,482.6174855333438,Civil doctor hard four.,71.93806441969495
+2022-11-03,6895ee90-3463-4cff-8468-0c1f500c2da8,Condo,True,5573.5678187176345,24,929.3771578443626,Camera imagine firm church remember politics according.,84.72646159831835
+2022-05-15,00002d13-b13c-4b28-b3ce-9edac4236dce,Townhouse,False,0.0,0,520.4280204797694,Rich place maintain people eye green.,
+2022-07-26,b68c63ec-f7d6-4be7-9813-8d16c128f521,Apartment,True,1961.681269759386,4,497.8322280276606,Job one bit player election can.,50.279132645506074
+2022-10-23,34e2cf03-32c1-4f65-8978-0e4cf3cb7e68,Apartment,False,0.0,0,102.68245684330087,We see so something throw guy practice.,
+2023-08-24,1c7e3f97-697b-4912-aa86-77c6d0055db9,Apartment,False,0.0,0,486.18270035991645,Institution level place by end book front.,
+2021-11-11,3e438bde-2d61-4fe5-a78d-7305358aa738,Apartment,False,0.0,0,311.04345398194346,Republican agent seven central.,
+2022-08-30,b778f661-efe4-4a2a-9413-5c482a16f82f,Condo,True,9233.231674632892,19,129.2906714256852,Former pick report eight practice manager.,75.43922613810035
+2021-11-23,60d3e035-9618-4c9f-912d-2ab25b5185d1,Condo,False,0.0,0,309.29334613524395,Man term likely top.,
+2022-03-05,b0deb3b4-7f08-4bf4-b383-d9c941ccef9f,Townhouse,True,3276.2009556147273,13,845.5821907684102,Miss day bar call city ability forward.,22.115146412042176
+2021-11-08,356c2040-2a69-413c-bb34-14ade429623f,Condo,True,5327.073656002667,8,864.2989356199349,Also low itself seven shake gas.,51.884711248933435
+2021-12-16,d2cb9192-daaa-46ba-b762-7e3cef358d80,Townhouse,False,0.0,0,548.6569248135602,Provide western will.,
+2022-08-07,9a9f2512-7588-4561-86b3-3ab0e61a59f7,House,True,6510.196519311055,6,663.4650117836584,Field work simple ball mean rather.,97.1412634250852
+2022-10-22,ed8b9eca-611b-4ff7-9ff8-ad7b747d8140,Condo,False,0.0,0,672.2194443700478,Continue form middle already likely scene.,
+2023-04-28,43ed2e25-c042-4117-9c26-4d7b125cb803,Apartment,True,5468.853211399784,15,887.5204720264234,Suddenly mouth image air.,52.53305050261151
+2023-01-12,94ae7f48-f701-42d3-958b-14987f85d244,Apartment,True,4961.5837444173485,14,858.7840794117398,Treat yet last run degree many.,36.510748618977665
+2023-09-04,90a04124-6650-417b-9bb1-f5d5bf76a0f6,House,True,8596.92162919326,6,874.9533605756307,You away attorney can.,64.09323790570564
+2022-11-23,a4dfce31-6c2c-484a-8f8e-f3f57754df93,House,False,0.0,0,687.0656663300429,Partner sense free pay church.,
+2021-12-07,dd889c10-27f7-4bcc-a556-bfa7f6472427,Condo,False,0.0,0,267.4247074185271,Especially full sit.,
+2023-02-02,3740ef74-4aea-4ac1-bb8a-a7a1f4a230dc,Townhouse,False,0.0,0,175.70151630966845,Pattern consumer score each page with conference.,
+2023-08-27,699b6fd0-702b-4862-94cf-4307c759fef8,Condo,False,0.0,0,112.9413963004396,Mission free spend book read house experience.,
+2022-09-15,f3517f94-cb29-475c-a75d-556a25fa8943,House,False,0.0,0,872.4378404207273,Woman expert hour kid.,
+2022-12-05,e6e83be5-b382-456b-9647-257b38c0dde7,Apartment,True,6654.020072031264,16,716.7270489268404,Professional crime tax explain.,72.43297223883958
+2022-04-04,ace81e25-60e3-4d26-9f78-5da41472b2fe,Apartment,False,0.0,0,745.5512216252074,Particularly strong measure away positive.,
+2022-07-20,33d1a6d1-f17c-4675-ae8e-c7bbb0b73170,Townhouse,True,5016.377596744784,5,887.9488053810934,Yet happy oil spend suggest.,69.7985923273015
+2021-11-19,f71eca43-8555-4713-80bd-26af9dc6ff0c,House,False,0.0,0,573.2814369277746,Process reflect raise list shake.,
+2021-12-27,d74e460d-dd2d-4c1b-8657-0a594b43fba1,Townhouse,False,0.0,0,881.1572404588395,Threat develop one various surface side nothing.,
+2023-05-10,8ffcb63a-ea33-48d4-aa76-d802f184b0d9,Townhouse,True,9261.899864728755,21,831.9231717884844,Feeling game both commercial.,23.924075276797062
+2022-01-30,71a287d3-8ae9-4cfd-839a-675978f76740,House,False,0.0,0,697.6522558736416,Rate free product gas under that away.,
+2021-10-29,34765452-722c-4a56-ab3d-17f425463e42,Condo,False,0.0,0,552.8139499029901,From nor market than.,
+2023-05-10,3dcb6e69-7f31-4a47-88a2-de14775b3b36,Condo,True,4261.7021606975595,15,535.9369756804545,Some company determine trade edge.,89.81707532200858
+2023-06-20,a0ba77c3-6343-4793-9cd2-9a56a3d4d6a5,Apartment,False,0.0,0,950.2834940131823,Throughout town send it least easy include.,
+2023-06-30,22076a26-11b4-4a58-9713-3598e5467cdd,House,False,0.0,0,613.320140224936,From occur any produce source provide while.,
+2022-05-13,251160dd-b472-4b26-9fc8-c84b9e494998,Condo,False,0.0,0,150.05105606541977,Suddenly heart reason truth either foot short.,
+2022-05-26,22784a16-6f53-40bf-9abe-ee068ea5e762,House,True,7033.014144105733,3,819.400083213893,Us budget road site range while pick trip.,55.944087658907584
+2022-08-13,0c44f969-a364-4b70-bd5d-3827e64f0f6a,House,True,8990.630059234678,6,407.81504175083387,Resource fine like agree nice always understand.,28.20885260466337
+2022-07-14,5da8f9a6-0fd4-4e60-a020-72bc7576493f,Apartment,True,9308.183667276831,23,437.4126863513543,Site modern difference few benefit direction.,51.50536142859272
+2022-10-11,318af1a8-db9c-42bc-9261-292eaadcbe04,Condo,True,4128.811863404604,4,360.5246860360668,Simply music billion order.,47.24132687464079
+2022-02-09,e9823d07-ebc9-4c4a-a32d-1a62a3a91d4e,House,True,1075.9554627238572,19,132.77418143604956,Season various conference share discover across.,6.994174479417403
+2023-01-01,c7a96817-c5b1-4eaf-b31c-3752ba397c2c,Condo,False,0.0,0,792.5929507918357,Yes social another game wide.,
+2023-05-21,41e58009-d40a-4765-903f-dc0c2ad2e110,Condo,True,9112.020679656629,2,703.7150570650258,Play interest just explain newspaper cold parent.,6.245614947434519
+2022-10-20,34e3bed8-706f-4bb7-824b-c5b941435440,Apartment,False,0.0,0,522.0490991782273,Seat suggest foreign space agree during visit.,
+2022-06-01,a93fedf6-c99e-43ca-8fe7-43426246ea88,Apartment,True,7403.278141323532,20,901.8666406783428,Just black by know might you late none.,30.785418064166425
+2023-04-21,3d17ca97-f84a-4b9a-b4e4-f2cab1289c25,Apartment,False,0.0,0,258.36751413304194,Century discussion southern explain.,
+2021-12-21,5cf597dd-6e98-45c5-806a-fa40dbde7dda,Townhouse,True,9452.951937754951,22,260.4211768918532,Section build thank among draw true.,67.55911412532984
+2023-08-22,9f55b71b-62a2-4b85-9074-345d0e009d48,Apartment,False,0.0,0,158.1931054893473,Floor increase read include our generation.,
+2022-01-22,86d72e5d-15b9-4c6f-878d-9fa08af5ccd5,Townhouse,False,0.0,0,852.1057856740392,Few she add best like enter.,
+2022-06-23,2a3c3112-8c05-4ced-91e6-0e25ee4cc276,Townhouse,False,0.0,0,727.7048580985504,Office right kitchen campaign language.,
+2021-12-18,59a5609c-04b8-4f05-871f-091458b64f1a,Apartment,True,3818.6655657886154,3,220.13951019358547,Until general we mean.,45.28229321618391
+2022-04-20,3e18f734-60cf-4c90-a66e-80e871bd49e0,Condo,False,0.0,0,548.4132442028515,Step similar energy owner stage at.,
+2023-02-22,ad379435-fb43-448f-a2ac-cd808910ab3b,Townhouse,True,2500.70664480312,15,946.4398981563277,War pretty soldier visit majority lay.,83.55600725999226
+2022-10-27,1180a26b-425e-49de-ba9f-4c9624750244,House,False,0.0,0,446.7888851102577,White federal very red can.,
+2022-08-29,8d40acaa-4d99-4cd0-b51b-7a850460bbee,Condo,False,0.0,0,235.1786781789363,Recognize occur significant under bad win itself civil.,
+2023-04-22,6ba57163-0bab-481f-85e3-330bbd3011e6,Apartment,False,0.0,0,638.4841553673934,Several hair purpose entire wait bag everybody.,
+2023-05-17,118e9925-4a15-43bc-b7dd-4c0d24d97c95,House,False,0.0,0,335.8704572075519,Usually special middle school when fact.,
+2022-12-24,0e3225f7-95b6-46a3-bfe6-34ef3d09759a,Apartment,False,0.0,0,272.6675932171712,Wrong likely everything.,
+2022-05-12,d132d971-0ec4-4147-91df-f1b354e2ccf7,Condo,True,8848.224526671384,11,426.44509230527024,Worker cut week course level should.,59.823112864094504
+2023-08-27,b66bc8f6-1b09-43ff-ad21-fda87aa1066e,House,False,0.0,0,543.3741654617783,Home step example structure item case.,
+2022-08-07,e8a1fc0d-959a-44ae-92a6-662fe2edaedf,Apartment,True,5781.995892834323,18,739.5907525895603,Picture cell list.,37.2971785309887
+2021-11-25,915a8185-06cf-4dd1-9899-e75ff9eefc34,Apartment,True,4742.809496263251,2,780.8401264478649,Anything adult organization window.,89.83746463427842
+2021-10-15,d84dd765-cca4-451a-9c43-f2140f31157d,Condo,False,0.0,0,345.16616127774364,Fact wife box true four.,
+2021-11-25,b6b06cc8-2051-4e8a-9e79-c4fea063f2e1,Townhouse,False,0.0,0,821.9916008957903,Daughter standard child travel work everyone.,
+2023-08-27,599d14bb-f806-47a3-8010-b477a3f840b9,Condo,False,0.0,0,529.6112153542725,Language could to traditional wish few challenge.,
+2022-07-17,84f605a3-b675-4e08-98a3-33d903e22b09,Townhouse,True,3863.6244085332505,5,826.9519001304592,Get play forget sell teach.,61.43940483273169
+2022-05-09,688ddb7f-e40b-4a6c-85a1-0fe2bff4f9ab,Townhouse,False,0.0,0,654.957787260186,War strong avoid.,
+2022-08-04,9be3e0a7-112e-4448-870f-6c2b345778bf,House,True,8321.144433870213,11,646.1083937334793,Deal article poor wind early somebody.,10.657700561725347
+2021-09-13,aff8dca2-4139-48b5-89a9-09c39543b7e7,Condo,True,9739.320775715882,13,454.53728362118244,How machine value might.,89.95220413385567
+2022-09-23,5a504a89-e449-44b4-a472-fe00d3213b6e,Apartment,False,0.0,0,808.1133266189344,Nor democratic relate that laugh cover.,
+2023-07-06,75f45942-cba3-459f-b6d6-9bc095069192,House,False,0.0,0,756.336154152117,By brother would start new.,
+2022-04-26,abbcb0a4-3603-45fd-aa88-5bfbd0b494f9,Townhouse,True,8068.2332657136885,11,216.03947831105077,Mother respond degree yard.,63.74338705840131
+2022-02-20,2afe8b11-295e-4ca4-973b-edcf57152add,House,True,6282.602848226498,22,817.5382472048465,Blood decide section conference defense mother.,53.553627118526656
+2022-02-24,762e5abf-aa50-4053-ab31-b2397c374f59,Townhouse,False,0.0,0,722.9619530839274,Become interview financial accept yard animal.,
+2023-06-09,d78b9b6d-b07d-4c9c-a9db-77d365eb77b8,Apartment,True,4356.505383308059,20,199.54371745498315,Draw without support book movie.,48.21365176330382
+2022-03-17,715d3362-96b8-48c5-a0e4-d02eb661c96e,Apartment,True,3578.9774141491516,16,610.9367609193552,Sister movie those pull power.,31.219645590959654
+2023-03-19,d203ed32-d816-4fe9-945b-b844fa447467,Apartment,True,1742.2170170640102,2,195.45321068831055,Investment issue team evening little.,34.29520001188874
+2022-12-19,0da320c0-2465-4b23-9393-363ad7dbf34d,Apartment,False,0.0,0,717.6998203058894,Or piece worker week main.,
+2022-09-20,64c89728-301b-4d32-972f-a48e027f522e,Apartment,True,3431.615732924299,4,658.7266619365322,Write want cover we which the.,19.70787226234787
+2022-09-15,88eef567-4329-4fba-a0c6-499c7e179aeb,Townhouse,False,0.0,0,235.80380980535347,Term music history win recognize drop high.,
+2023-06-06,6bb5472a-a77f-485d-a543-b75391fde66a,Apartment,True,2737.579008613304,13,828.8338674374402,Phone worker cause this scene.,62.7402124761523
+2022-01-18,9e759526-b02d-4c6c-88ae-c86e6463276f,House,False,0.0,0,683.6584213747451,Edge never college hear note.,
+2022-12-22,b79b9849-5531-4aea-ade7-e7b13cdcd442,Condo,True,8352.024357737544,7,134.9855971765473,Second practice yes lay.,48.374219781499136
+2021-09-12,5f09fa0b-c3e3-4b73-8994-a503eaac4120,Condo,True,7065.415168979995,19,956.8459492289597,Try two society short power lead.,20.847311275355263
+2021-11-22,2d34f0fd-5c4e-4374-91ad-1c6ebe55f6a1,Apartment,False,0.0,0,929.0204446318436,Whatever center eight generation bank.,
+2021-10-07,292c5f01-7243-44af-95b7-d821c90d9d5f,Condo,False,0.0,0,664.477972642926,Our this popular big.,
+2023-01-09,e767d224-d1c2-4e5a-9ca0-ddc8a1738736,House,False,0.0,0,399.12746928651023,Purpose work usually.,
+2022-08-26,347620c6-428f-41da-8af6-7d43bb33ce9b,Condo,True,3956.9432714420873,17,398.7560178675589,Group with authority brother difference difference deal.,55.90442047675048
+2022-09-11,3b5daca5-b4c8-4e35-87eb-8ce8b1f13c43,Condo,False,0.0,0,812.5505315782125,Floor fish recognize.,
+2023-05-04,5b56b854-7a62-4bb6-ae88-631074a5e948,House,True,6644.404479334956,7,958.6086253962457,You face cultural.,49.2730578374247
+2022-11-02,f8382241-a5ef-434f-b57e-af19367f9f45,House,False,0.0,0,803.0247861109531,Government white eat third politics late.,
+2022-04-15,f536cfa0-19b4-4f1a-9ff0-fc0d37e18241,Apartment,True,6985.831897403845,11,220.9121676194294,Hotel avoid everyone sell shoulder.,91.14651166768368
+2023-04-12,ecd85eaa-7700-44d1-a037-7d6212772ebb,Townhouse,False,0.0,0,561.7375763780323,Security wish new that receive modern.,
+2023-07-27,910dfbd7-0d45-46e9-b6fe-5036f0c32943,Townhouse,False,0.0,0,519.7778859473192,Idea national learn try on.,
+2022-08-11,10c28ba6-3c7f-4177-8744-155d6875d566,House,True,3336.2802830078017,21,918.5524708417697,Walk see source knowledge various.,92.07041146945903
+2021-12-04,7119bc2a-9404-4628-a22f-735f87187567,Townhouse,False,0.0,0,252.18179978502766,State audience field themselves senior ever.,
+2021-10-23,612134ab-e968-4367-aa09-205b36b9a380,Townhouse,False,0.0,0,571.2024056711361,Big any of church total analysis sort.,
+2023-06-19,fede870c-1f58-45b5-a4aa-2c33a3d1c096,Condo,True,9210.929187776874,8,602.6083453793976,Likely skill environment huge girl teacher.,60.85624710160927
+2022-05-19,5ed9cff0-1d1f-40e1-a192-b94568bbc4e6,Apartment,False,0.0,0,654.1353070904456,Cover speak citizen forward theory large apply art.,
+2023-01-24,1004af5d-aff3-4c42-87f3-a21e0d17c7b9,Condo,True,7825.3261810977465,7,410.1026759118059,End anyone thousand.,25.55036769678578
+2022-08-27,26664109-6bb7-4ca1-be56-110d4bcc7462,House,True,5921.484935390127,5,652.2562717179021,Too now deep industry understand trial whatever.,42.63746019651924
+2021-11-01,f4065564-66aa-4011-b92b-c1ba6f454920,House,True,8512.724140090035,7,707.9845386000427,Finally read hold agency hour good.,28.62647944484373
+2023-06-07,5a772203-efff-4b30-9557-1fd773a17802,Apartment,False,0.0,0,526.0759532930136,Town resource name media.,
+2021-09-14,a591892d-c06f-4ea9-b7bc-b3020c219272,Apartment,False,0.0,0,173.88376821591748,Job still record picture ten industry.,
+2023-01-21,83fda573-5b46-47cf-b031-d81d073db836,Townhouse,False,0.0,0,946.8832101448237,Meet ok station address down.,
+2023-07-20,90f5be5e-7b95-4a39-9bf7-36c46e9712a9,Townhouse,True,7925.582523508639,21,542.101627040976,Time artist significant course huge.,16.342356352778065
+2021-11-27,e2f2205a-9771-4174-b64f-6e1375b36682,House,True,8584.142753797048,9,238.26389011944528,Camera action enough money throw.,68.55836496047169
+2022-04-27,2d7d82c9-1c96-4316-a0d1-ef13c2265668,Condo,False,0.0,0,746.4664978440715,Become second question million what evening consider.,
+2022-05-07,faa6f09e-dede-4c37-9666-05e25cdff750,Condo,True,3095.328129937396,5,957.4676665205427,Cold back radio maintain tend your.,80.5885257602108
+2023-03-10,d8740fe3-8884-47d3-8dad-5c0781059742,House,False,0.0,0,839.1087276008928,Paper approach behind ok politics within.,
+2023-08-09,7cee1d31-6c6e-4623-afe9-c314e922ffa9,Townhouse,False,0.0,0,931.9297188622163,Benefit hair letter modern apply between.,
+2022-06-02,8451dbc1-31f1-474a-ba45-f27520abad25,House,True,9762.627693751474,13,886.1076361559265,Half during international our law at.,48.18391424276825
+2022-09-05,5138cb4e-ea73-4869-81ef-368547c3c101,Condo,False,0.0,0,581.1370034046735,Wind training opportunity decision.,
+2023-03-23,8a8d7094-0401-4d66-9ab9-d91696171abf,Condo,True,9110.682719438882,16,696.2668647108067,Make hand play evening sense.,76.05836551606835
+2021-12-08,aedf5fb0-213c-46c9-a410-e62d16042e69,Condo,False,0.0,0,513.9892892836907,Consumer approach yes Democrat everyone.,
+2022-01-02,aa1531b1-4e2a-4cf3-83ea-8ec4891a841b,Townhouse,True,1082.3455752465422,23,103.2841021537425,Hard collection newspaper upon sing any wish.,98.78551237156927
+2021-11-14,375f2e9b-766f-44ec-9719-985772a75b06,Apartment,False,0.0,0,476.2779103570129,Image control reflect political.,
+2021-11-25,24a788e3-85d1-41df-91c1-f9ebbfa668f5,House,True,8372.710652251144,11,555.2475021325456,Real community can drop.,35.06408674267736
+2022-11-21,ac937b52-0775-421f-817d-5a792ab15bed,Townhouse,False,0.0,0,855.937692964442,Blue level part become give your shoulder.,
+2022-03-14,c57dda3c-94c5-4bec-814e-203e6cb895c5,Condo,True,9721.451179767844,21,425.31809954541075,Give pass modern movement leader beautiful break social.,33.88985826026565
+2022-02-09,c40bad75-f368-4f40-9684-7e96d14415e5,Condo,False,0.0,0,817.1996750704163,Hot where tend expect outside.,
+2021-09-20,ecd81242-e81d-482a-b4f2-cc6b785be50a,Townhouse,True,9943.787708453685,10,218.01421402313917,Laugh movement mind election certain police.,23.405966479420204
+2022-03-20,91222b85-5477-4bd5-b967-fb09579106f5,Apartment,False,0.0,0,216.26600091563284,Physical hospital set its official.,
+2023-05-22,db3e3e17-c894-42e8-9f5e-18ebfb3bd8cb,Apartment,True,3778.274369287762,22,114.17005803009333,Adult walk single be.,50.081357981585214
+2021-12-30,8996070d-8867-4e24-b146-ae67a8302386,House,False,0.0,0,792.4123656442705,Do conference even peace.,
+2022-08-28,2be19778-2550-4e00-bf87-ce8ecbe0fd1e,Apartment,True,6101.552507634297,2,312.4776019615625,Can fill return against response.,38.434428155537816
+2023-05-22,36ba0bef-4413-4f58-bb2b-1a8f193448fa,Townhouse,False,0.0,0,564.0706383500494,Your in medical industry paper skill.,
+2021-09-08,1377996e-76b6-4bf5-af59-a331dea21c88,House,False,0.0,0,409.46784521239726,Bill generation response notice.,
+2022-11-17,17fb5e8d-c49c-40d9-bcac-3e8e8727c973,Apartment,False,0.0,0,729.3393408969356,Foot sometimes performance woman protect ability any.,
+2022-07-19,b7884599-102b-436c-abe9-3cab527249b0,Condo,True,6954.957819045199,19,688.8186935110351,Develop teach generation performance matter star minute.,89.68043747257848
+2022-04-26,8659b88c-8f5c-4af3-8716-8c95236d7110,Townhouse,True,6298.094751385495,23,554.6104517711418,Good measure personal vote work.,65.84813875280008
+2023-07-20,060393e8-fce9-4cdb-9b27-7f383861e338,Apartment,False,0.0,0,253.97359801123184,Option quality better.,
+2022-04-09,d2f24ece-6bfe-402a-97c4-15a54c234bee,Apartment,False,0.0,0,548.0981737305162,Political street morning show serious effort than.,
+2022-04-24,48d1dcf3-323b-4545-a370-51ccd17fca66,Apartment,False,0.0,0,563.6014583491782,Let exactly go serve Democrat piece.,
+2022-01-04,f5a5c77e-cdd8-41c7-999c-208f53a5c759,House,False,0.0,0,413.757150465457,Stage book help might line.,
+2023-03-18,657eacc7-a02e-4d55-ae20-d144692d26a5,Condo,False,0.0,0,499.56182784961067,Hand believe direction of will tell fire page.,
+2022-10-08,e0395f6e-9c34-4fb2-a0ba-69bb6807e9e0,House,True,6397.848069343761,14,903.9435742959164,Purpose section any threat soldier range.,81.03112870490202
+2022-04-01,798a7216-83df-45d4-a74c-38bd60a5822f,Townhouse,False,0.0,0,224.90030760504504,What order language role.,
+2023-05-06,9ac26757-88d3-4fda-8479-44e5677a71a1,House,True,5778.002810421405,8,820.313265139473,Green behavior least community voice water idea.,72.66342186600706
+2023-07-28,4385c760-5279-4a2d-92f3-28a96ea2b9fc,Townhouse,True,5531.601964859045,7,698.9198259826512,Court friend outside series teacher body sign.,65.72725919295917
+2021-09-12,e6d3410a-6323-4cb5-9773-9c8233e3f6c2,Apartment,True,9336.34824304432,23,300.29736013524837,Less man challenge smile best star often generation.,34.425784697185705
+2023-01-06,f036f86c-0c0f-4b62-8b3a-036387ef5c72,Apartment,False,0.0,0,617.819700734946,Remain last day fall hit.,
+2022-01-28,f30ee2d4-3d12-4425-addf-7b9e92804ea1,Condo,False,0.0,0,371.75994771416293,Story above color leg pay piece.,
+2023-03-29,9b4de3a9-8a1d-41cd-a623-9c2d7a891e19,Townhouse,False,0.0,0,769.6707089018973,Peace level process however.,
+2022-06-03,00bcfdd4-6886-4fc0-aaa9-f47beb57f76b,Apartment,False,0.0,0,540.2202388305558,Real themselves bit beyond key.,
+2022-07-13,c90fac39-d79b-4fcc-a01c-162f39a5fcbb,House,False,0.0,0,615.410086450751,Leader car Republican people off decide.,
+2023-08-10,7c0bc026-7fee-489c-81f2-683e7dca9bee,Apartment,True,5781.343106245749,18,875.1768367533751,West buy point skill.,51.10757558078516
+2023-06-27,455df219-7d06-4480-aa09-df5327582fce,Condo,True,9344.592953551082,18,986.9212501763558,Want option hear ok against.,22.647714831176824
+2022-02-03,39bf858d-5098-46b1-8fd8-373bb2f3e72c,Condo,True,9722.195918822661,17,702.2404372600718,Often move issue create.,20.824304620330025
+2022-01-24,642d67e2-edb2-40cf-aaed-10948419bea8,Condo,False,0.0,0,518.1546011802075,Start idea wonder fly animal understand cost technology.,
+2022-09-26,3d272c1a-54a6-4e4b-9f2c-7840f420f8c7,Condo,True,4618.040721438824,19,680.4967592625492,Cup similar concern question myself television debate.,57.888503946515904
+2022-06-10,a7e813fa-b2f6-4d06-82a1-e714d3918daa,Condo,True,5193.958175219551,10,238.3141278572863,Heart size moment what media perhaps.,75.99938362324258
+2023-03-18,d902883e-a7f4-4919-bc59-38914a672205,Apartment,False,0.0,0,800.2447859398696,Customer nation practice.,
+2021-09-29,f0782df3-eedd-4009-b20a-38f0953a08a4,Condo,False,0.0,0,605.6179915191711,Would shake sense notice.,
+2023-04-07,f5abbd54-fe3a-47af-8dee-fd6e13dbb04b,Townhouse,False,0.0,0,563.7102988101726,Miss song above final hundred.,
+2022-09-18,c059b714-4aff-4cd0-a021-59bba149e405,Condo,True,8171.531359147322,9,137.67001218581274,Evidence blue agency force.,25.251595536826986
+2023-05-02,6af78e4d-e770-45cd-9fdc-833baa4f65c6,Condo,False,0.0,0,507.4494123833165,Appear notice identify school work business truth top.,
+2022-10-29,32ff89b5-ba5a-42f1-af83-b53f62065fea,House,True,9905.01487368311,1,851.8517347367217,Number technology third thousand community clearly both.,32.19689531963007
+2022-11-29,5d56629b-8abd-48d3-a84c-34c548aabdf6,Apartment,False,0.0,0,159.04922272905367,Child character color rest chair star hard tough.,
+2022-03-20,d3bd0e1c-3627-4a10-ab96-6dc240cef228,Townhouse,False,0.0,0,612.5035043149867,Finish red song especially look yourself everyone.,
+2022-09-28,580dd5ac-d713-474f-ad97-757dbff41ed6,Townhouse,False,0.0,0,746.6271312297836,According heart figure Mr it.,
+2022-02-28,84a22b56-db3b-464c-a17e-f58211e27ac2,Townhouse,True,6475.724327987198,13,839.5210623575645,End movie idea general development.,79.50992245128403
+2022-04-21,2a38c4b0-937b-460a-a88a-3cbecabb891b,Condo,False,0.0,0,244.31793374245296,Company five dog and weight.,
+2021-12-11,30ea9bf7-ec9c-4bc9-bb7d-7f6f7c33d9e3,Townhouse,False,0.0,0,280.9757530794842,Film know work billion training.,
+2023-06-18,e4929f54-a95c-4608-8276-da5b94a7107b,Apartment,False,0.0,0,838.3492602989098,Institution care miss.,
+2022-03-16,8788398e-6b20-4f2d-84b0-58d3e0088f68,Townhouse,True,5751.582371138727,21,970.5040903513201,Laugh now office sense entire character.,47.87766888762349
+2022-04-11,ccb7bc74-0dc0-4161-b897-1f3b3b3c38cf,House,False,0.0,0,101.39932429094817,Make store security statement lead ability.,
+2021-09-11,ec0fef08-e5c2-4365-b0c0-97e4114ccf19,Condo,True,1505.2658962242494,5,870.5331427159116,National more better song concern become small girl.,89.758314441654
+2022-02-16,449e6bea-d339-484e-92cd-5e8a1a923f4d,Townhouse,False,0.0,0,488.19367196997854,Rate agent create sell across.,
+2022-10-25,c55642d5-3371-4e13-9c44-da76538d0906,Condo,True,8425.491188999138,20,428.41019175954904,Drug last hand consider social.,66.60502537342549
+2022-08-19,96849d47-e829-441a-ab18-ee47c2b8063f,Condo,False,0.0,0,648.2309594582956,Arrive girl bill factor send alone.,
+2022-10-16,f4dda848-fd19-4d00-bc87-7798575feeda,Townhouse,False,0.0,0,795.21931508397,Much author finally full walk situation mother.,
+2023-05-19,82eed8d7-8d76-4693-985b-14cebe8d1cf4,House,False,0.0,0,504.18501369187214,Arrive watch development office own full yard.,
+2023-06-20,8d0dc95e-077c-4ffd-bf26-fae4505e3df1,Townhouse,True,7360.70397270637,8,993.4610415830001,Everyone city research.,91.44244396018696
+2023-09-05,20c1238c-259b-4f89-9e41-ebddffe95c9d,Condo,True,3690.63972520793,9,396.6466940447976,Unit agreement history old.,47.379136446172545
+2022-02-18,92ebaa68-eade-43b0-806a-7658a4197dad,House,False,0.0,0,525.9843730194441,During friend same lay turn by sense.,
+2023-08-06,cb669d9d-e361-47a6-8825-c4594b4d9505,Condo,False,0.0,0,321.75936683637065,Radio improve by raise term.,
+2021-10-30,5e4ae1fe-6624-4d0b-a3d4-4e78b845f172,Apartment,False,0.0,0,471.5130101194304,Imagine low name weight behind common.,
+2023-07-12,e1e98e5b-5dae-4af2-8646-78ff8bd721ac,Condo,False,0.0,0,374.4055961498343,Situation wide and.,
+2022-03-09,5e9581cc-b757-4e08-b7c5-b5b5c60da1b9,Apartment,False,0.0,0,307.2617813254258,Feel discover during indicate something rate may.,
+2023-02-24,044171ab-6033-4c87-a41a-32c5437c2596,Townhouse,False,0.0,0,813.628719156098,Control language drive forward book main.,
+2021-11-08,ffe6227a-73c2-4efb-9cc3-e52fbb994afb,House,True,9612.969069899975,22,661.1650277391675,Like remember cut senior still hundred.,57.103277268065966
+2023-06-05,c9f106cd-14c1-4217-b220-5cf28be8dcf6,Apartment,True,3544.1546813019295,16,730.27538877604,Full research responsibility for young.,55.71226178256845
+2022-01-03,f5fc9045-ea47-4241-85c0-9ec05016f777,Townhouse,False,0.0,0,102.08986451891884,Seven either may create remain the consumer.,
+2022-07-06,bc92c4c1-5261-44d4-afdb-f784fb551982,Condo,True,5399.006308553809,20,952.3823851637609,Town picture environmental.,71.81070539906298
+2022-06-01,590d79c1-4f12-423b-be3b-4c1b7dc8763f,Townhouse,True,9494.429342857895,22,840.3405277589392,On position deep create present prepare cup.,1.6824306973382552
+2022-11-25,1a3d15c6-11be-41da-8e1a-9ec5504185ed,Apartment,True,2727.1190899614685,6,186.90524459689993,Mission least collection must century seven theory.,21.940507688691145
+2021-09-22,5079acfe-311d-4756-9798-4f1efb6f7c37,Townhouse,True,8426.476911066875,21,629.5113269753352,Less almost care girl sort.,67.28343295105365
+2022-03-10,3c6d5f1c-d527-447c-a09e-3d9e8a684eb3,Condo,True,5982.736186419218,5,752.5462941518915,Mission exist watch research kind explain.,96.21839312450837
+2022-06-11,5bb5430d-6e0d-4ecc-806b-e8e46ec71c01,House,True,7330.9652734210185,24,238.13414489501565,White his work month rich.,98.63997814925524
+2022-09-15,a194467c-fab6-468f-b418-600e40c6adf5,Condo,False,0.0,0,988.2205404173294,Stuff effort tax with former.,
+2022-10-22,fac7d0a0-2c60-4c3a-92d3-e05046baa0ca,House,False,0.0,0,410.31219893299624,Future newspaper through seem type of beyond prepare.,
+2023-07-28,3832a0d4-3116-4978-bd30-f04a922e66d9,Condo,False,0.0,0,520.6523942765314,Nearly western lawyer continue help.,
+2023-01-24,e8444416-5cec-4954-93a2-be45a558c114,House,False,0.0,0,174.03307021323712,Enjoy financial relationship hold work any.,
+2022-01-29,9e2c537c-6e20-4bbd-8b33-bc06d7cad6a9,Condo,True,6692.477362262628,13,388.8085103111846,Relate improve along after fast.,86.05188486629974
+2023-06-08,1e51c15e-241f-4d15-a0e0-7636b041f87f,House,False,0.0,0,424.10502995535956,Old possible others.,
+2022-07-19,514fe18c-c97a-4358-b033-4336ce2ce326,Condo,True,1950.045891373567,18,591.559394997669,Read begin son walk personal.,11.039709710131064
+2022-10-03,841aa5d9-bcf0-4315-b563-21202db7c5a2,House,False,0.0,0,141.44128808461517,Own set own cause leg catch letter.,
+2023-01-27,fa183540-dfe8-44cc-9a15-baa0e1ecd900,Townhouse,True,8089.375681520376,2,230.55071610988634,Eye life generation thousand create look.,80.20217921038596
+2023-05-21,063c448f-193e-47f4-aaae-f34653ca6936,House,False,0.0,0,538.9829324713087,Indicate attention condition arrive sure win son effect.,
+2023-03-11,9d0a7cbb-62db-43fa-838f-87232243945e,House,False,0.0,0,619.6447560762778,Single increase southern late government add doctor.,
+2023-05-14,2127e25a-3c9c-4ef3-94bd-3252b71254fd,House,False,0.0,0,146.8851200385574,Require central change expect thought training.,
+2022-09-20,ba6684a5-dbc5-4f46-a66b-b09798813e5c,Condo,True,7476.269735961336,21,872.2692084344845,Yes PM fast section.,38.413324022469084
+2023-07-06,24ee27e4-b8c0-4e21-b91d-98459e290d6f,Condo,True,8560.440150194128,4,580.9644174944767,Market apply human source black.,72.73682647980752
+2022-11-01,dd2beab1-d91d-4982-834e-968a6b38d04a,Condo,False,0.0,0,332.201448377878,Game really surface protect lead drive decision.,
+2022-10-31,f08a5860-78f3-4edf-88a2-8c3c582fe7cf,Condo,False,0.0,0,545.2131614072999,Education open use finish account strong very.,
+2022-04-12,ab37803a-fde2-459d-baa7-69ccd7808e47,House,False,0.0,0,855.4225184487393,Door mean college.,
+2023-09-06,042a2b77-f8ba-4880-972a-f4145616f47d,Townhouse,True,3525.952036182194,18,706.3238350268248,Debate throughout policy weight.,20.881536646343022
+2022-02-04,43148bdd-424e-4ed4-b05c-7f2738ddf36f,House,True,3761.893096958237,2,751.9213438260737,To peace parent growth up development.,99.37323950827965
+2023-02-09,96f6e960-9e51-42c3-9291-17ed0db171f4,Townhouse,True,5103.38403912773,24,483.53459207699177,To different consumer room.,40.93727114888617
+2022-10-19,f305196e-6c15-4b1e-8944-09f8ef40a5f9,House,False,0.0,0,370.9854500093582,Recently likely high occur.,
+2022-09-18,b0b6eaba-27db-4a10-acb6-2e2a72e3a115,Townhouse,False,0.0,0,284.36218931966823,Past think until glass person nor you.,
+2023-03-22,9c86a641-948b-4f40-bcc4-01d2df83633c,Apartment,False,0.0,0,922.0679743420743,Pick trade statement conference before management.,
+2022-06-05,0bcafb4d-07fe-460f-bbd1-7329c7688484,Condo,False,0.0,0,283.0925089192456,Community start age.,
+2022-05-18,cffeb599-7bd6-465e-b878-35c7489973bb,Apartment,False,0.0,0,448.79246754061006,Happen hot ever always.,
+2022-04-15,d5022b5c-31e3-4fb1-a2ab-94f627d1d9bc,House,False,0.0,0,763.0544607163602,Probably size owner since board national season.,
+2021-12-27,96d7405e-3389-4e64-84a7-2f5758beabcc,Townhouse,True,6568.253765329157,16,493.74391715905875,Officer machine general shake.,63.15022339025088
+2022-01-16,93486c26-43e6-4bc3-bd64-331f4a49f4bc,Townhouse,True,7500.341286437063,2,506.2341974685568,Response coach easy fly cause she bit war.,11.816989778095932
+2021-12-06,146086d6-fe89-4469-9a63-2038e90867bc,Apartment,True,1832.7958485239024,23,743.1666212100234,Too yourself force exist clear up.,45.94089487946265
+2021-11-03,9fe05099-b68f-42c8-afb9-a1ecfb958345,House,True,8621.512655187391,13,914.657982609365,Available act sea evening piece.,92.33059564328038
+2022-02-14,caf68cc2-1741-4dca-a308-919d5efff693,Apartment,False,0.0,0,930.4903481643914,Executive direction compare.,
+2023-01-14,af36f70c-04a1-4acb-92a5-8ab1c463d6a4,Townhouse,True,4036.2062241532067,10,768.6377415916163,Citizen well accept remain half.,53.85699516476322
+2023-06-20,18f29cdf-e600-44c7-98f2-e2b5804cdd19,Townhouse,True,9808.317475232054,19,908.9498386989991,Recognize instead life ten board sell.,51.718730843163385
+2022-08-14,428792d9-f889-4925-91d7-b4753f0846bc,Condo,False,0.0,0,949.147265928917,Win media protect heart couple hold money.,
+2022-09-10,51cc201a-e7df-4c19-847f-516858b33ee2,Apartment,True,3396.0992163981546,18,842.9352931344717,Far everything similar fire.,26.26698967628842
+2023-07-01,6fdc14ed-6121-457d-b347-8db23770e6e4,Condo,True,4525.812916248471,6,545.636832792743,Although almost task rather.,9.853197689815962
+2023-06-02,1b479e36-f0b3-47ea-a78e-7eca2c9b70bd,Condo,False,0.0,0,584.5352210871988,Mr manage strategy theory recognize smile country western.,
+2023-01-23,52090df9-c95b-487d-a320-dba85a2036ad,Townhouse,False,0.0,0,393.3328616152055,Pretty third everyone modern.,
+2022-06-12,6824e539-3748-4f0d-9324-7b0be0dcc04c,Apartment,True,9705.714693466925,10,840.7192075533166,Fight capital floor brother.,81.50426074510368
+2022-04-10,ce3eba89-16bb-4ad2-ae83-18e571949e82,House,False,0.0,0,556.1429535835857,Long reveal low decide ability himself.,
+2021-10-06,acb860ad-8d79-4cbb-ace1-26c2ac6ce83b,Condo,False,0.0,0,637.3957559237072,Anything treatment effort mother writer success language.,
+2022-10-19,1a9d4bdd-0834-4733-bb22-1aa254d45789,Condo,True,3350.885733700003,22,860.0486958405224,People fund exist soldier thus half.,99.35862645740197
+2023-01-20,6f8d1e1d-f19c-4eb4-8c2a-2a4c24723063,Apartment,True,5404.546043988003,1,980.2202692268679,Huge enough benefit must.,35.831508582558016
+2021-09-13,a973ef0f-7e35-496c-8997-aceba17f51d6,House,True,9582.565481303058,10,352.3285551847872,Improve catch personal.,74.26281329252357
+2022-12-30,e1dc50ee-b739-47cf-bfd9-84625598305f,Apartment,False,0.0,0,745.7729687363436,Physical every provide list throughout subject official movie.,
+2022-09-25,ea65b2ed-fc45-45cc-b099-d2d8cc5326ac,House,True,6610.640558516268,2,451.87379730483457,While would participant those fire believe kitchen.,26.84302333265539
+2021-12-27,b64d3d4f-b836-444f-a889-38b2061fdb5a,Townhouse,False,0.0,0,195.64846936853945,Land beat third short practice upon car.,
+2023-04-21,5596300a-b977-4f3b-abfa-156c965fb0ce,House,True,5612.090669402244,13,555.6696961561985,Financial attack wife can bad majority trial meet.,5.570959699164913
+2022-01-29,5b6ea249-09a1-46d7-952f-16bde6dd619a,House,False,0.0,0,625.512659331675,Himself general itself answer moment product.,
+2022-02-20,fbf3dd33-f717-4ea3-9c84-6fb44f4138d0,Condo,True,7515.094725176303,8,721.4619520533214,Help hand subject not.,62.36244142961843
+2022-01-22,bde30c93-f0c4-4e1b-b54f-53c4498222a6,Apartment,True,6094.318885294202,12,767.3907148788254,Economic base since.,51.67384882380267
+2021-09-24,5d2ddac6-34a8-4142-bc59-c46764bc5eb4,Townhouse,True,2971.79176256807,12,404.96110085416586,Listen message as service medical administration.,80.78060479832287
+2022-06-03,6b1b7e74-b84a-4054-9cae-81a701597128,Apartment,True,7463.047979280918,6,852.8776418489864,Subject air box serve serious point off.,93.29835105603877
+2022-01-17,5d13f9e0-1b57-4fb1-b59f-c728faa08fac,House,True,9301.118475718873,21,504.3365271784039,Learn in design.,33.57097406957325
+2022-08-03,ee64a9aa-a66d-4839-9143-edac7e8856ef,Townhouse,True,7997.438799871927,23,263.54954800402925,Number loss meeting your effect ago situation.,3.9675461467176487
+2023-08-01,7f41ffef-d330-42c7-8f1b-70e94f32559c,House,True,7641.134088047588,4,918.082084360333,Debate keep part his.,23.48287247491404
+2021-12-05,56947bb4-1a13-4473-9003-2311b08031a8,Townhouse,False,0.0,0,424.17150897343333,Son wall response mission hand.,
+2023-02-17,0ffb9901-c383-4f79-bd08-00fd3e133a76,House,True,3995.8081745930845,5,586.5355265966264,Keep collection crime impact sense.,84.94921545971039
+2023-09-03,2f54b745-61bf-4cc2-8071-ef6433a1cce3,Townhouse,True,3750.436897346498,4,581.8835260334463,Story to method east.,43.53076016840755
+2022-01-08,59f0f47d-4f77-421e-8c45-16abe75ef8e9,Apartment,True,8477.390295137131,16,558.4273505982333,Police seat lose.,73.67564297132509
+2021-10-06,8bb2e553-63a6-4a91-98af-0b1d63ad962e,Townhouse,False,0.0,0,227.58904645721782,In term meet step laugh.,
+2022-03-01,26a00dc2-3ca8-4342-b071-305642ed35a5,Townhouse,True,4368.5963941836535,9,550.4323726347761,Day stay different onto financial.,20.53472239031168
+2021-10-21,6547e857-91e7-4c75-b0b9-1d06ff6c5831,Condo,False,0.0,0,830.7186516753093,Crime population he democratic mind.,
+2021-10-13,42b2e746-9564-4e2c-9f03-5895108945aa,Apartment,True,5953.29777629237,7,744.7311553739435,Discover hospital idea paper hear responsibility have power.,94.67964525117186
+2022-01-20,a69e9ffa-48e6-4c10-af74-6418a57b95f0,Townhouse,False,0.0,0,181.1625455147417,Three hand executive along several learn.,
+2023-01-10,fc5a2b91-4c7b-4be5-9be3-6f7115fb0ce9,Condo,True,1419.463588774065,21,125.17847489976938,Military want street always keep sport.,67.8908422725206
+2022-01-18,7b56e32f-6123-4626-9932-754a6d883c34,Condo,False,0.0,0,980.2832010327154,Pressure direction technology add.,
+2022-04-22,4cf9ed33-5d8d-4efe-a067-4bc18b9f0f1e,Townhouse,False,0.0,0,167.5882305594129,Begin wind find state.,
+2023-01-28,c757fcd8-b7ac-4065-8327-d12d143972c3,Apartment,False,0.0,0,407.8895635930253,Southern design sound sport national yes catch.,
+2021-11-15,f23f8f14-49c4-4af7-86f5-44dfd2a2ca65,Apartment,True,1389.1021850718605,4,608.7888289491964,Stop wide free voice probably though.,96.23857247173095
+2022-06-11,be263afc-6c41-4af1-b941-c0964a9a641b,Townhouse,True,9625.946049459537,13,556.2435503080028,Economic policy brother include.,84.19805378808074
+2022-02-18,e526e1b9-da4d-4811-8c04-2bf192f0fcd1,Apartment,True,1015.5980010840744,23,833.9346022594989,Successful mouth budget operation phone.,39.985946775944626
+2023-07-31,e3edd36a-d9ef-42d8-9ecc-0eae227ffad8,Condo,False,0.0,0,465.2168751212857,Clearly reason city.,
+2022-07-12,0a3d0cd6-e695-4b35-b568-6e777eeffaa0,Townhouse,True,5976.126110334904,19,482.899485839273,Total east note PM sing treatment.,62.330327803477736
+2022-08-21,e1d8c49a-0dc3-48c2-9570-c8a832014467,Condo,True,4404.252553461358,24,260.17224965757356,Position pressure report style.,75.50565046254896
+2022-05-22,452c41a6-e92c-485d-8bc4-fe4d72c96289,House,False,0.0,0,373.20045561521226,Evidence follow subject stand suddenly care.,
+2022-05-26,4627e0c1-b963-4a01-9bc4-bb2958d09692,Condo,False,0.0,0,713.6997254139862,Member quite service by finish the.,
+2021-09-25,7bcee101-254b-485e-a575-80c0faae0567,Apartment,True,4847.076430865471,12,490.88285307765324,Police marriage base guy nothing.,8.723991338502124
+2022-06-14,a8edb09f-ead6-47a9-8dfd-95f908dc63ca,Apartment,True,5696.724315389254,5,275.84290685164456,Organization military play source card.,22.7678708943034
+2023-06-19,ec78023e-87a8-42f0-955f-ed5403982792,Condo,False,0.0,0,626.6751280613432,Before consider dog.,
+2022-11-05,f32ef6dd-c1c5-4274-9b9c-e2debc24651c,House,True,2367.1348127035844,11,163.2879286143267,Common four dog quality physical team.,72.03095400481567
+2022-01-13,ab4a9546-4fc6-4f59-afbf-2c1d1b1b1d3b,Apartment,True,4422.795630556936,19,873.8979809345437,Fly attorney beautiful long Congress certainly determine answer.,28.678983498001088
+2023-01-05,8616c510-dbd9-4807-a0c3-d6dbd06ef01c,Condo,False,0.0,0,846.0059994200857,Thing Democrat finally campaign mouth them.,
+2023-01-11,a3ba38df-a4fb-4d5b-b336-525654bc76f1,Apartment,True,4104.223123606304,11,888.6937525040362,Sport for operation billion travel.,22.269196057880315
+2023-05-30,89ccb7a5-7a1f-4e23-bc0c-323ee7ba9fdc,Condo,False,0.0,0,322.95706994208945,Nation rich production painting memory.,
+2022-08-12,10fea439-1dd6-45b8-bcef-73ff2a162df3,House,False,0.0,0,994.4375906034775,Anyone political especially this.,
+2022-09-07,b606fe8a-6d9d-4c30-9838-016eb40919f7,House,False,0.0,0,825.0806724116825,Whatever nothing certainly point.,
+2022-11-21,c20f1051-2ac0-4352-a092-34932e5677d9,Condo,True,7048.356861633834,11,462.4172157219255,International knowledge newspaper me.,55.057767058223625
+2023-07-30,5c5f557b-0e1d-4bc4-b9ec-c51dfcd335cf,House,True,8843.410814282552,18,130.3968232014368,May yeah serve section perhaps activity.,18.54683150592017
+2023-04-08,1b81260c-713d-41bc-8a0b-9931e237aa2c,Apartment,True,5501.3003568384365,18,815.6016116588272,Final low cause me leader.,32.252710274151
+2022-03-01,28b51a48-957f-44d2-9d2c-c3efb5104731,Apartment,False,0.0,0,214.6692559453811,These certain election draw.,
+2022-12-29,eac80634-dfc3-416d-a6fc-2a7854665fec,Condo,False,0.0,0,538.1624864176239,Keep article year shake anything.,
+2023-05-27,863bcd40-5fe9-4e54-bf8b-4c43cc0ab3ef,House,False,0.0,0,669.3394976444341,Two maintain very news consumer out.,
+2022-11-02,6ed0fcc5-7ff8-4150-9bab-e1b8bc4874d6,Townhouse,False,0.0,0,444.81993089562735,Same simple message design respond still soldier.,
+2021-09-14,6f6e07c7-d653-405d-8a5e-458d9021ef4a,Apartment,True,9195.243258158336,17,180.86752841917752,Ground live power manager.,86.84009023041096
+2022-06-14,4ece0a3c-b54b-4d66-9b08-b5186b40cf07,Townhouse,True,1749.6059137123625,4,392.50221124163204,Particularly easy kitchen company.,65.2345297919838
+2022-04-22,2ff162c8-caa7-40d8-b0ac-9bec43b55631,Townhouse,True,3015.6290153356003,10,591.9745188874384,Few wait similar whole feeling share.,63.07896253303773
+2022-02-28,48a0fc40-6a01-4f82-aa6a-5186e8f2f716,Apartment,True,6763.3649666771935,17,399.34234642545675,Six turn animal human.,3.6117352387983193
+2022-01-23,77791d53-7d6f-4a00-acbf-ff32553858bd,Apartment,True,5531.516569154537,23,974.1859987957525,Factor long raise wear evidence evidence.,7.532554198883612
+2022-12-21,35c4fbe1-83c1-4fad-8f3f-9967c2be49f1,House,True,8737.560277973691,3,267.2599412150719,Hold full provide.,43.079792381601635
+2023-07-22,e63e681e-47d0-402a-ab6b-f0cb484a7fd4,Townhouse,False,0.0,0,645.8628066869198,Firm much she activity increase.,
+2023-03-20,c90d9356-71b5-40f5-9cab-8e568382dcbf,House,False,0.0,0,486.19090934773294,Seem side recently again fight effort military.,
+2023-07-29,5d10bb12-3fb0-4425-a85c-e5fd9bbdee04,House,False,0.0,0,918.0903612032083,Hear leg through group he physical since.,
+2022-06-06,995dada2-3c68-4481-8537-d0c34fad8164,Condo,True,3722.279655714526,6,663.1372760820542,Free five her.,4.404058578062742
+2021-12-09,51a5f1ce-1d22-4f9c-80c2-cd09bd6c87ef,Condo,False,0.0,0,833.2333402461242,Left wrong send three.,
+2022-08-28,a5c37d9f-e8b3-4b0a-94d3-67b7b7572412,Townhouse,False,0.0,0,687.5405811688073,Moment skin space less in operation.,
+2021-11-01,bf9ef4ed-fd41-455e-8e95-98dd2d0481d2,Condo,False,0.0,0,684.6259390532429,Operation question no fish.,
+2021-10-17,030143f8-5e5d-4cd4-927f-bcae9c727f25,Condo,True,9310.243407764854,19,297.8179780781012,Strategy part information world remember small.,11.468497580500935
+2021-11-22,c6398fb9-455d-4dea-bb5a-1cba7a9c5c32,House,True,1355.3119644637293,19,476.5542545805833,Environment occur short almost city.,45.24663886179703
+2022-10-16,6fdf1ac2-a157-4dce-bbec-e51712170f73,Townhouse,False,0.0,0,827.2944059818392,Top probably must card child movement land.,
+2022-03-09,7cc103ff-6d23-4647-9b1b-a1d5312e2877,Apartment,True,6944.092284133221,19,298.8503173901423,Sign structure white.,61.39558285421474
+2023-04-29,89f80502-996f-4127-b04a-83f8bad68d6c,House,True,4237.430992936548,7,701.6033322791593,Run line step.,74.10133057550422
+2022-04-05,d6f8b3d7-93da-453c-8cc4-6148be2ddb09,Apartment,True,6093.582442082714,17,919.7301931306719,Management four safe pressure interest.,78.07589967789869
+2023-07-27,cd017777-abb9-4c58-9e14-a0379fc11be9,Apartment,False,0.0,0,880.8063237739785,Away tree two up keep successful series.,
+2021-12-13,a39af4c1-a6c0-43a5-8a1f-7fcb108be43f,Condo,True,3409.415074400265,23,562.1910124917299,Game pick town bag.,65.01917343477707
+2023-05-14,b7015517-0105-4f83-b993-a8e6eb177c84,Townhouse,True,2788.4466221414077,24,550.3075573104868,Source science series there fly nor.,4.01012794915766
+2022-12-05,2100f7ee-2017-4bf1-bfa8-4e9a305f3944,House,True,6459.695818878251,23,775.3955809580347,Cost receive brother organization factor.,10.021358254997537
+2022-11-15,4cf4ede9-e409-44c0-985a-315bf8582262,House,True,4765.273769199106,3,967.7191603091425,Maybe more thing see.,9.809397501193883
+2023-04-30,7fbc5bed-1e18-47d6-b896-cbac71a29c6e,House,False,0.0,0,435.22036757356676,Deep area my national.,
+2022-07-16,e987e6d4-f3a0-4bf2-877f-eb277a1c2fc5,Townhouse,True,2944.150524039871,7,978.9928836436131,For group ground.,65.40753091910058
+2023-02-27,33825a29-073a-47e0-a9a0-52ab65a9793f,Apartment,False,0.0,0,639.4949070371287,Night step with himself pick look often.,
+2023-07-16,2faf3272-ec5f-40db-a7c8-9cde001a8c0a,Condo,False,0.0,0,797.9261498402342,Third allow one.,
+2023-04-17,8f26f294-8ded-4986-a70a-e05f3ecb6473,Condo,False,0.0,0,663.154976223188,Million understand total fund significant.,
+2021-11-06,1e22c5c9-1631-4447-a5f4-e2811711e3af,House,False,0.0,0,546.2661818727263,Ago other money could artist why list.,
+2022-07-07,7664f06e-1012-4fd9-8fab-8bdf7ff657c3,Apartment,False,0.0,0,279.24507356192,Head enjoy most side.,
+2023-04-07,f575ffc9-24d6-4263-96ad-42af9fd7e83a,House,False,0.0,0,683.2670727571311,Position table student get.,
+2022-06-17,bb447027-7562-4fac-a86c-7ea93ebbc75a,Apartment,True,6955.723667366765,1,693.395485474896,Number unit line test culture sign energy fear.,61.438254329833896
+2021-11-01,7caef45a-49bb-466c-af13-b9568fb3a3f2,Apartment,True,4075.676451485952,7,285.2351508938656,Together final statement.,23.19054204364366
+2022-01-28,da8d156e-e058-49e1-9162-fd010fad860a,Apartment,False,0.0,0,697.4903813511669,Turn community but eight.,
+2023-08-06,df3e3d2d-d055-4418-9689-3fa8b3e764d4,Apartment,False,0.0,0,729.7196608011634,Truth do left fish attack.,
+2021-09-19,b47b056d-65f9-420d-ac71-3ce3fda06c3b,House,True,3816.007071855671,22,429.87253293784164,General build either consumer.,92.15784388527557
+2022-09-29,782b6e2d-fdec-432d-a313-0298f2737c58,House,False,0.0,0,371.38536883676255,Build leg begin one alone miss candidate new.,
+2021-10-24,80c29d48-5b8a-494b-a89f-f1a1f32335ea,Condo,False,0.0,0,717.2438451384505,Discover score ball long film religious charge.,
+2022-06-01,a2195a8d-9c02-40ef-bd08-59df6c761d8c,Apartment,False,0.0,0,400.10782253672585,Above word production main full.,
+2021-12-24,ee8ce216-9a66-4935-94a9-730424237d40,Apartment,False,0.0,0,152.4111780683571,Investment science trouble although.,
+2023-06-29,8fcd8054-05db-46b6-892c-9759ddb693fd,Condo,True,7590.112161327859,19,546.330442027034,Walk game second then.,18.690441828961333
+2022-04-01,3a261324-3707-4e7d-9135-05468d5a8bca,House,True,5315.003030774621,3,857.3340878767616,Me generation loss us.,96.29464418736703
+2021-10-31,652fcaf6-7958-4815-b026-919dc14417c3,House,False,0.0,0,449.8214130591526,Major agree front reflect media paper.,
+2022-12-16,e47b3512-b313-4bd3-ac9f-602b1ea7aa9b,House,True,7819.856097207786,15,239.87234503962972,Official call personal if nice.,88.71654218037627
+2022-10-08,6691c16c-5677-48d3-bbeb-c64529859b33,Condo,True,5442.453751512402,8,338.43430112493996,Help offer benefit world meeting.,42.18646648704557
+2022-12-31,a76f548b-e10c-4c5d-ad05-bce265d03d0a,House,False,0.0,0,368.88381855894255,Against available lose line land.,
+2022-11-07,e449543a-8edc-44ee-b2f7-7cf33580e771,Townhouse,False,0.0,0,380.94869402653427,Perform sport all.,
+2022-03-22,4d63b493-56a8-42f8-a716-7577d2b158e9,Apartment,True,3384.6841608424006,6,619.1513772827576,Choice raise concern.,12.179798814774045
+2023-06-01,12f27856-1a44-450b-bb09-1921ac73dd18,House,True,3791.0759426266213,22,450.898864490831,Likely appear strategy else know wish authority.,15.563256411606574
+2023-05-10,0ca3f70b-323c-43c0-b3e1-9b89b71a9aca,House,False,0.0,0,502.70196968615176,Blue how glass appear.,
+2023-01-10,952f4427-cd85-4b15-9631-aeb766dbd86b,House,True,9828.413681324504,7,678.5998167770109,Network that too charge.,79.63758240815193
+2021-12-02,4c98d3a7-a64d-4d6b-854b-07085af78d82,House,False,0.0,0,367.4791624279746,Writer dinner employee.,
+2022-12-15,a8e4a507-76cd-47aa-bf33-5230ccf1d230,Condo,True,7045.506667409964,24,120.98400449059888,Newspaper heavy marriage responsibility challenge crime cut.,36.82127475595781
+2022-04-07,7fa0c0e0-7c2e-4103-9113-b6beb33ae975,Apartment,False,0.0,0,120.19110241648617,Tonight amount economy machine partner man.,
+2023-08-30,f0546682-359b-4694-b504-7878b9d80096,Condo,True,4230.374815891522,22,743.1071619403386,Air night head alone on among.,95.45629482857197
+2022-10-25,29828a20-92be-47c0-ab5a-12afd0625d1c,Townhouse,False,0.0,0,960.6024726298238,Who forget hospital study grow item out view.,
+2021-12-31,421cc9b7-acd5-4376-b582-531477ff1955,Condo,False,0.0,0,599.0020670029396,Follow time top star television PM a government.,
+2023-09-08,321810db-5e4a-4f83-8029-e825779275b9,House,True,1688.433731527129,23,136.29353946087812,South down save clear affect middle ball total.,84.70037112512689
+2022-05-13,45514123-6383-499b-957f-d0ace9c36ad3,Townhouse,True,3349.9945366298725,13,295.8424686805599,At wide individual difference.,96.57990774908686
+2022-04-24,cb1abfca-41be-44dc-98b3-32d0e7948eb8,Townhouse,True,7723.207951456007,18,692.2605333226664,Whom yes discussion animal last.,17.253683359675488
+2022-11-14,73e5ca75-7410-40c3-ae12-6a01b292f99d,Apartment,False,0.0,0,524.3837025696705,Director reduce modern store there.,
+2023-02-07,337fd76c-3d69-4add-a5e8-85e291b7ef96,Townhouse,False,0.0,0,983.9823233831415,Month people mention outside relate stuff nature.,
+2021-09-20,2f02b3ff-fae9-488d-92f4-f0e9674a932d,Condo,False,0.0,0,491.6965601389038,Best would music information road.,
+2022-10-18,11979d7b-85cc-4940-8eea-97888b200cf8,Condo,True,1958.7654242446165,7,120.3803585491404,Person one pass them activity.,61.4767908231618
+2023-05-22,be8bd795-5412-49c3-a0f6-ea38a11d5966,Townhouse,False,0.0,0,507.3037206961857,Pick office cause seem audience.,
+2022-01-11,91409433-6fe4-4cd4-9585-0cfa45b06eec,Townhouse,True,9772.547244303154,16,766.290675760839,Include case consumer series just race thought Democrat.,62.51656708985232
+2022-09-07,df848eff-1924-4239-a4d4-e6994f852e28,Condo,True,5942.326453825018,12,792.7472332628739,Force population go result international politics.,87.66099844478637
+2022-03-25,764e75dc-e692-4f08-beb0-5995d4179834,Townhouse,False,0.0,0,148.27729819730027,Actually color its.,
+2022-09-13,2ca34fbf-d3a4-4fdd-805c-1a1aeffb6ac9,Apartment,False,0.0,0,719.5165129554292,Sing next right want medical argue phone.,
+2021-10-09,02c623bd-2be5-4b91-b61b-79b74813941e,Condo,True,6477.345285170222,15,727.5606595727268,Window head kitchen seem enough agent.,37.55891605716338
+2022-07-30,52595d39-06f7-43d8-982e-b384b7061852,House,False,0.0,0,375.2560188425656,Nature current kind so.,
+2021-11-24,a041ba1d-ad7c-468c-b576-6161b992e662,Townhouse,False,0.0,0,524.0148274391454,Ball sign loss author nation wind turn.,
+2023-05-20,497604b2-3a7a-430c-b0fb-d273fca82555,Townhouse,True,6995.023400988335,8,304.8965996906914,Both already indicate within family collection.,65.98465198764292
+2022-04-02,bf7c9fa0-8947-4e9a-a698-41ed3b9d1a7d,Condo,True,3420.7361062882346,15,705.536973181109,Detail dark save American task.,97.29802531010935
+2023-05-31,ef888d53-315b-4c06-8dc6-5c453b7d4c7d,Townhouse,False,0.0,0,311.5506267155712,Few win opportunity week politics.,
+2023-01-19,2a0c894f-888d-482b-b1c1-5dc3f0db0972,Townhouse,True,8977.599380260446,5,139.6051599281658,Could direction look him.,86.54362424806278
+2022-03-06,16f6bdbd-cff8-463d-9290-01102294e5c4,House,False,0.0,0,640.4061051789106,Worker loss available mouth however.,
+2021-10-17,d2377793-68ef-4392-9441-dfd568e2248a,House,True,2590.872784788899,1,834.8172153919843,Tell pull term analysis fish government name agreement.,13.007869796685966
+2023-01-18,f15dc341-e28c-472a-95be-64a5d778c5b6,House,True,8334.723566684303,18,778.5134414884222,Sometimes miss wait.,43.19674080378056
+2021-12-17,14e04b2f-f99a-4d10-ab17-ee6bdcc62b37,Townhouse,True,1274.3861927675857,15,843.8664164618613,Adult sign save five finish world.,29.347486173579284
+2022-10-21,ede7c841-bb75-42f5-87fa-aba3d4ff6729,Condo,False,0.0,0,963.6683500985229,Wind move everything skill really wall.,
+2022-12-21,5b593f37-9290-488d-afee-3e5472ca0e6a,Apartment,True,2122.0865673814033,19,879.7460709941449,Subject including onto college trade fill.,96.69122392067823
+2022-01-27,a1aec512-eea4-43a7-bffe-d8384872babd,Condo,True,2568.6748402843295,10,478.8257304223875,Develop exactly religious.,78.12648899381878
+2022-04-20,7a39844a-8c03-459d-9c9c-5e625587ee9a,Condo,False,0.0,0,908.493376716931,Walk finish great natural.,
+2021-11-21,e471b96c-377a-4749-9ea6-d7416a46dec3,Apartment,False,0.0,0,394.97498521128864,Ok present I life guy let.,
+2022-08-24,9e53b956-b350-4d3a-9833-9171f03651d3,Condo,False,0.0,0,689.2767504221648,Space create cut.,
+2021-09-15,7be28236-0bd2-45d0-a52b-08399d66f31f,Townhouse,True,9371.390129628675,4,908.805002022151,Significant exist memory if rate.,8.108574818986192
+2023-02-17,d9f6c733-236a-4cfe-87bc-f3d57ac4efbf,Townhouse,False,0.0,0,758.0383445997983,Anything become off resource.,
+2022-05-19,ed177bbb-3174-4623-be7a-fc5fd0e4d24f,Condo,True,1979.1504789964902,19,935.4010869606753,Director blue whose husband officer maybe option.,26.242158355653743
+2022-07-31,37a51b8c-d17d-4979-b014-12dcad6c1f0f,Condo,True,7160.450656598375,6,330.9198993860574,Unit street tend.,34.252450501116286
+2023-06-25,4f58f237-3a6c-485f-b373-aacc2f3cbb22,House,True,6572.681730718241,5,333.2229712771773,Crime money cause reach study cause fact prove.,63.047267838901234
+2023-02-25,f3b0c58b-18a7-4558-8110-d306a7b846f3,Townhouse,False,0.0,0,511.67689722758126,Candidate serious here then again join.,
+2022-01-19,16c8cf3f-8b6b-48a4-99a5-41cc70ff9683,Condo,False,0.0,0,202.83955315928753,Ground five we open.,
+2022-07-28,f41aadbe-d4b4-4407-bbf1-1f59f22857e4,Townhouse,True,3041.1228370162994,14,207.26763421265719,Local myself memory.,55.06304091440967
+2022-06-06,78aefae5-c5ae-4ac1-82e0-1198bf9db2c0,Condo,False,0.0,0,253.68899252326642,Experience tree discussion participant most.,
+2023-02-09,82d656ec-5969-447d-8544-e5751d740cc7,Condo,True,9726.030855277893,1,337.89527651209335,Enjoy heavy her year benefit dark hope military.,22.95625990191853
+2023-07-03,5d97c94f-c520-49d0-b2db-9a0d19e01fe9,Apartment,False,0.0,0,950.0553070451558,War plant marriage ability quickly woman us.,
+2022-09-20,40461354-5233-4513-bfe7-792d7fa973cf,House,False,0.0,0,377.22086066174694,Half reason yard into option student hold.,
+2023-01-31,64c54915-222e-455e-b8e4-85e2807dd34c,Apartment,False,0.0,0,948.8386174023934,Him group face the according save particularly these.,
+2021-10-10,18bd8803-161a-4ac5-a510-2ade0ac84bcf,House,False,0.0,0,447.2657675262844,Address get provide crime improve describe practice former.,
+2022-10-19,3e021e37-e1d5-45b3-bcc6-3bb66b9b8ef3,Condo,False,0.0,0,596.1426573883296,Certainly president simply or save without.,
+2023-03-29,2cc89398-a923-4f5a-ae60-a46b7f416ad8,Townhouse,True,8613.21128368098,21,602.5443486501567,Pattern help majority country community husband capital exactly.,84.49946847337827
+2023-07-01,3c44fef6-14c4-4735-a506-dd93964fed39,Apartment,False,0.0,0,934.705273264723,Lot image provide month matter sit stuff year.,
+2022-03-17,b156cda3-10cd-4b96-9b4c-1fdf1bfac4b9,Apartment,True,3986.655495242187,16,976.0310591845541,Contain out recognize purpose career direction sing.,84.28903583776905
+2022-12-18,94ed3992-402f-435c-aa9e-ad632313cb0b,House,True,4451.983779078419,21,450.7565997223122,Most play a deep avoid though human.,71.52962447960988
+2022-12-12,204ecbb0-7e1c-4879-b2a0-b8d0093f2145,Apartment,False,0.0,0,831.5361792432494,However agent trade exist air maintain.,
+2022-11-23,42d8d285-d4e2-4ba3-87ac-37bd2928854e,Condo,False,0.0,0,665.1399066207825,Strong natural buy wish.,
+2022-04-27,8c67de06-fc0a-460d-976a-85002ace9865,Condo,False,0.0,0,828.8644199902847,Win account girl positive decision.,
+2022-12-16,91d690d3-dc8c-40ce-8e51-96d0368652e1,House,False,0.0,0,752.4687842760707,Test true lose arm week other opportunity.,
+2021-11-25,1725ae66-d3a7-4047-a593-ae2b40eb1620,Apartment,False,0.0,0,515.8762081954093,Suffer city baby call raise property.,
+2021-11-08,4e157654-2e28-4db0-8fa5-58b6cc00538a,Apartment,True,5055.899577148881,6,854.4154712912666,Think where continue executive experience.,33.00587893080189
+2022-11-10,f29e29b6-bc23-45f7-8135-96f05c32cb43,Townhouse,True,9644.985644999058,22,746.7528341857685,Little open suggest party tough individual you.,99.42904475155926
+2022-04-23,4d5e7ea3-6331-45fa-a658-f520d5cfad33,Condo,False,0.0,0,590.0919753451864,Book current care population yes herself director.,
+2021-12-05,8984f01e-44e3-43cb-bfe1-dd0a2fec3ef6,Townhouse,True,9227.006670019304,12,775.1062537359223,Series modern arm window watch charge.,87.66531402339356
+2022-11-12,f38129dc-099f-4202-81e3-021ebaa34e74,Townhouse,False,0.0,0,358.15402093248923,Student reason grow generation education stay.,
+2022-12-12,4df3b082-6a79-4d00-b0b5-2782a9c65255,House,False,0.0,0,561.1331353451699,Inside age professional discover.,
+2022-02-03,4b619463-e315-47b8-a894-ebd49726cecb,House,False,0.0,0,968.0689435783547,Wife language door.,
+2022-12-06,a674319c-43a7-4be8-b7fa-a0a3a9cb778a,House,False,0.0,0,619.4526753310746,Rather artist American make second.,
+2022-05-16,34018265-96e5-417b-9886-1ce7d48410b1,Townhouse,True,8804.1854082709,19,766.3623900615587,Budget investment record paper.,4.673404422787986
+2023-05-17,d920699b-922c-41f6-9a9c-91d21d36a2f2,House,False,0.0,0,659.5806475719812,Everything especially new blood tough let trial.,
+2021-10-19,a3ea4f60-f3d1-46d6-9a14-5d9b58743b10,Condo,True,9646.358498271127,9,358.8372019647022,Believe decade meet campaign.,36.62282973679988
+2023-01-13,83d204fb-afed-4b8b-9764-daffcabed42f,Condo,False,0.0,0,476.3245998393409,Republican result suggest.,
+2021-10-08,8ae81bc6-037b-4b62-be3b-2128640bea8e,House,False,0.0,0,133.90900910517004,Government part example small indicate hotel.,
+2022-11-28,1e36c5bc-ab15-45d2-8aab-9bbd828c0321,Townhouse,False,0.0,0,922.2152913535383,Speech sea education cold us themselves see.,
+2022-04-02,59f9f3a0-edf6-44e0-acfd-0ce36a033012,Townhouse,False,0.0,0,286.46327981034506,Sing man into Democrat sure left.,
+2021-12-16,a17ccb7f-a76f-49df-957e-53d4823359f3,Apartment,False,0.0,0,280.2630959496199,Card may see case role indicate.,
+2021-09-15,ddd72c3a-6936-4382-b3ac-6491c8a0a54f,Townhouse,False,0.0,0,193.88315050708994,Majority suddenly at art matter.,
+2021-10-19,6e69f8ce-651b-474d-8aa6-75719b92cdb1,Apartment,False,0.0,0,144.9118403193235,Third coach my quality concern act boy move.,
+2023-08-27,3e262204-feeb-4f73-b382-4291f0258063,Apartment,True,3837.471722505588,9,415.8710423246037,Me food culture important without result.,0.45148336444584825
+2022-01-01,4822e3b5-db18-4710-98d8-36b5b2a29e3c,Condo,True,5699.279173892434,5,156.99620800392117,Lose place anything part minute short.,50.79362019779735
+2023-01-03,7a687709-94a7-4eb6-b71c-1d1e7ba8da4c,Townhouse,True,9509.921282292828,5,137.41844329649143,Capital save task.,68.28829956535974
+2022-11-13,0b19c068-9cfb-49e5-b3ce-4956bdc73bdd,House,True,3073.695476759651,2,498.2417212056974,Deal street remember theory voice figure trial indicate.,93.18553512753532
+2022-01-25,effc93e3-6f44-481e-b949-1dbcba1a42be,House,True,7603.544881701004,5,452.78853698475797,Interview realize matter truth them focus administration water.,77.87380342083105
+2022-09-07,420cf199-cc1d-42f5-90e1-0ac964bf6b64,House,True,7170.9220947129725,19,956.273936265947,Tonight suffer soon itself left first.,59.79056283737286
+2022-01-09,e5c39883-03fd-4f8a-a5ac-cd3a5beeea9e,Townhouse,True,5757.723529635696,23,631.680232939277,Seat become choose affect she teach actually.,61.612021769297385
+2023-02-28,f8e9bd37-7a31-4afa-9e06-421b532c8a8c,Apartment,True,8481.36651069776,21,891.7559874403837,Body can pressure within the doctor staff.,97.99378633957453
+2023-03-25,be8275e6-3331-47df-bfbc-f3f45c9916e7,Condo,False,0.0,0,156.68940648537475,Life fall never quality actually pattern.,
+2022-04-24,3fb01965-110a-49f1-a76a-12d22cc247f8,House,False,0.0,0,249.59790258364416,Trouble hour leg night.,
+2023-07-01,e97f85e6-c2d6-4e53-b930-5a30cd9b0b62,Apartment,False,0.0,0,983.3072265965152,Base up understand hotel sing.,
+2022-06-28,6a40d11e-d2b4-45b3-af03-29c52ca40530,Condo,True,4499.045322679307,15,301.56911174322994,Key require while international time future.,19.65726733510681
+2021-11-08,a8bfef9c-9d44-4b91-a727-0e6a8e6e093b,Apartment,True,4561.8363401107845,2,465.0917173479982,Trial first music.,67.54506239564783
+2021-12-08,44b064c1-3ab8-444a-89b4-48f63d70169b,Townhouse,True,3893.84616926121,11,365.6841369724269,Their nearly same himself.,38.51292858018124
+2023-04-17,480b6def-0951-4810-83f8-b01aa97f6dd4,Apartment,True,4870.835306272943,7,724.9976600061676,Account majority reality list while across.,4.424697968499414
+2022-11-27,89418bf2-7bf8-4810-acb0-20011d437fc4,Apartment,False,0.0,0,435.30572445076,Again old on hard serious training continue.,
+2022-02-06,af0867b4-297e-42e7-9d38-f8a3893bc520,House,False,0.0,0,504.1876630293044,Per industry when art technology.,
+2022-09-24,9b287f05-6972-441b-a0af-d638e2730527,Townhouse,False,0.0,0,302.681494951706,Into down scene major agent appear let my.,
+2021-09-12,f967c02e-b674-447e-adb4-8e2a68a477b3,Townhouse,True,9367.754687367858,16,647.4980767374161,Lot community see.,8.736453895971097
+2022-01-09,5b152ecd-d8d1-41c6-8e48-e2a89627ec3f,Condo,False,0.0,0,843.0754809773404,Girl natural friend according.,
+2022-10-20,d524e34f-c61b-4c16-a3ae-ebd40e9fefde,House,False,0.0,0,962.0689167889293,Wear simple join past truth.,
+2022-03-31,5717cd93-b56a-46bd-b205-00df2d0e07d4,Condo,False,0.0,0,841.1103840715101,Stand inside leader speak.,
+2023-02-16,dc0af7f2-e6e1-4d2e-96eb-9e85a17903db,House,False,0.0,0,856.9741493787869,Money finally when before.,
+2023-08-09,3b4f25f8-66ac-45cc-b4ba-a25de44ebe64,House,False,0.0,0,391.61301650032146,Worry light I after sure speech so.,
+2021-11-20,319777a1-9753-431f-941c-dd85088e4780,House,True,4733.948044994218,8,656.9499269988171,Team describe senior add parent art.,80.79811469175266
+2023-01-02,e22f044c-7860-4d20-8d92-cabee15fcabd,Townhouse,False,0.0,0,373.51257296186463,Over glass people like.,
+2022-08-15,616c78b8-76ea-4939-b28c-c22247888f1e,House,True,5160.783577207881,19,193.9643137115611,Official difference each there.,6.580861007520378
+2021-12-11,85cacdee-c092-4e20-8113-1f8131c3ad55,House,False,0.0,0,608.3578090300593,About care us sister.,
+2023-09-04,0f0d8af8-357c-4208-a286-4ee999db1740,Townhouse,False,0.0,0,970.8566045035751,Floor become development reveal lead above everything.,
+2022-03-06,a65e1039-4822-4569-857a-05440155dfe8,House,False,0.0,0,217.41013482790754,Goal for civil service.,
+2023-06-08,7eb569b2-a394-4b01-a2b9-937594c79705,Townhouse,True,3073.6492100990263,24,671.7579338977547,Night body term name manager word.,80.94943778655283
+2021-12-16,171ed41a-f04b-42d7-b44b-cdc0418fbce3,House,True,4320.830608940588,10,786.0344182522587,Less reveal establish option.,4.506275761670631
+2022-11-25,424fb857-107e-4604-a4db-cfc6f17ce0d8,Apartment,False,0.0,0,342.6252662703199,Once performance rate chance traditional today mouth.,
+2023-03-01,07d3f02e-7249-4702-843c-6ad90d89a3bf,Apartment,False,0.0,0,563.608445143391,Early firm bank religious safe add away across.,
+2021-12-08,30d5c27c-8232-464b-a971-f2e0c1e2c60b,Townhouse,False,0.0,0,971.3483010874575,Meet represent many rest clearly performance admit.,
+2022-09-27,c10b3db4-83d0-49e9-a7f0-21f18560f5c9,Townhouse,False,0.0,0,292.2674265578909,Skill shoulder meeting visit price pull allow.,
+2022-03-31,276ec8f8-86f4-4318-91bb-9535b25c25fc,Apartment,False,0.0,0,519.3792838247483,Concern itself build station story certainly.,
+2023-06-23,8bce0b73-4c79-45b5-a086-910d1b58fbce,House,False,0.0,0,407.8597498706395,Hold huge culture term he.,
+2022-07-20,5e9582c1-02ea-40b1-a6ea-6920342beb0c,Apartment,True,3565.924921423625,24,841.4783640416031,Type try claim garden.,0.5392756985168723
+2023-08-15,ed150ea5-e49a-4850-aa59-bd6644a29e17,House,False,0.0,0,748.9180502081293,Role whose moment kitchen attention exactly.,
+2021-12-04,0fa613c4-7898-4c3b-9b9d-dfc95a4847d4,House,False,0.0,0,194.66892588139905,Foreign simple economic bit case yeah.,
+2022-03-29,0e59d4f1-abd5-4759-8c3d-d606e4ae67f7,Condo,True,1087.5805864678016,4,579.6162150136772,Defense although bad candidate perform health.,80.33113433961063
+2022-05-18,e173f980-66fe-4321-a19e-a41f9956b113,Townhouse,True,1017.0738578488873,17,566.7534404179572,Him result sport.,7.135354595082299
+2022-08-19,0cc047c1-ba2f-4c8c-8546-6abb75a17b77,Condo,False,0.0,0,650.0397354127232,During already risk people probably section public.,
+2022-04-08,5b824b2e-f49b-4d71-a3cd-a1dcab27f7c8,House,False,0.0,0,365.188471989644,Not full state near over industry.,
+2021-12-29,d83ee617-3806-4e94-acf7-05ee7387eb59,House,True,1839.534480907837,12,763.8281097076307,Accept western friend meeting movement easy.,67.88273029504191
+2022-01-22,3af1b3a3-5f18-44d9-92da-46d32002ac19,Condo,False,0.0,0,475.3909225948712,Claim scientist value hit.,
+2022-02-24,5da94b4f-9914-4178-9175-3feae591d461,Condo,True,9960.54950844596,15,314.0617733782318,Social structure send coach improve anything all.,33.204029377976454
+2021-09-13,c122f42d-d564-4fc2-9268-b781b90cc09c,House,True,9825.748370512918,8,753.4100862886642,Information see style girl tax which century over.,62.31131966782082
+2022-04-08,adb6a238-d30c-414a-b267-91cddc24ef2a,Condo,False,0.0,0,986.3045448354585,Give possible person bill.,
+2022-07-05,88ed862a-081b-4bc8-879e-757e7e6b9cd8,Townhouse,True,4660.7845951202635,20,302.691742012964,Late newspaper state.,77.7938971345994
+2022-02-26,7d08b3cf-d69b-4ef8-9196-ad5bade9e58d,Apartment,True,2916.6113909348264,10,893.5109094922936,Feel service price especially data.,1.2018189278867664
+2022-06-20,00f67117-19b1-42c3-8ef5-d9e6c520782e,House,False,0.0,0,907.5271661538414,Specific mind recently right population.,
+2021-11-29,77f82edf-77ab-49a5-a29e-788132968cbc,House,False,0.0,0,875.9157145791062,Process space I money.,
+2022-12-15,f82b04ff-e9c0-4773-83bd-de0086868725,Apartment,True,5904.675442263244,10,715.8636286681046,Between break Congress be school tonight system.,34.874073684130124
+2021-09-11,9ea72134-2c48-4cca-b9c0-59308f936fed,Apartment,True,1735.2074422927003,19,783.9528984564788,Around strong low happy.,12.155366314156913
+2021-12-09,de29f3c9-eb04-4f62-9df0-a0c8e2d08016,Condo,False,0.0,0,541.8474003778209,Position through create name wall.,
+2022-04-29,754c4cc1-2679-4379-bdd2-5cf7ff76d79a,Townhouse,False,0.0,0,664.8060429115761,Sign fly authority my benefit animal west.,
+2021-10-06,ec4399ae-0d71-41c1-bca6-f68768845e0c,Apartment,False,0.0,0,893.5751518080656,Specific little season effort show sell.,
+2021-10-21,d993534f-5886-45f4-bfdb-feade6b38b9a,House,False,0.0,0,107.5381605383867,Least behavior while let project left parent.,
+2023-07-01,a2ebe469-97c7-4741-b934-6b2ddbdac32d,Condo,True,4194.526738360873,20,300.0432373191539,That point learn improve.,18.9201135609375
+2022-12-21,f4537c4f-1996-4988-80e6-41a69a4dffdb,Apartment,False,0.0,0,729.5777291396597,It just many power take question today.,
+2021-10-30,23bc2557-f492-4d5a-8d08-b0f346eec090,House,False,0.0,0,772.0892280271111,Responsibility night teach during situation especially.,
+2022-12-30,133a7ec1-5814-43ab-ace3-eaab41f8cbc5,Townhouse,False,0.0,0,931.6926456233573,Himself message Mrs right decide recognize.,
+2023-06-29,4a2bbbe0-107c-4335-a629-8450b5d10b3b,Condo,False,0.0,0,586.3650439452973,Contain thousand dinner today wonder same.,
+2022-12-17,afd2fb8f-57b7-4edf-8f1a-7ba4678c1c47,House,False,0.0,0,523.7800850950823,Investment our everyone offer positive.,
+2022-10-06,bb6c3a3f-a4e3-4dba-95ff-6e4e137340e6,Apartment,False,0.0,0,929.9168261824216,Animal style along.,
+2022-05-13,6794b55a-0484-4c93-8c7f-07d337b470ad,Townhouse,False,0.0,0,370.4706776419212,Purpose mind seem respond.,
+2022-11-02,ed469e0e-1275-4601-bd22-9ea3ecc2192a,Townhouse,False,0.0,0,597.6144782481866,Clear direction truth his cut.,
+2023-04-09,52d3a902-e963-45a3-a148-251d8b06fbb1,Condo,True,4992.055887980367,21,140.9050288189564,Loss might establish join treatment without business.,27.040200793347957
+2023-08-04,2db0e3a4-d39b-4205-8d19-80cfb18fbaf6,Townhouse,True,2265.865169518138,22,184.2852816624136,Pressure them month late raise.,62.37271612711599
+2021-10-14,ad24927f-0588-4709-a614-6ab57dc386c6,Apartment,False,0.0,0,930.8462353520026,Listen leader program debate.,
+2022-07-04,8d84ea6b-1a77-41f0-9f89-5b861d2e9d97,Townhouse,True,1312.9470814410713,15,426.92101457445517,Certain hour far always.,83.74925580492155
+2022-12-28,5fcac11d-b1fc-4132-a77a-ca178799d337,Townhouse,False,0.0,0,177.9932492376562,Return similar type bed feel until.,
+2023-05-05,5a2ebb86-a7cd-44e9-84da-4853afabd050,Apartment,False,0.0,0,119.25721684509463,Person myself number participant ready measure say.,
+2022-12-12,f1b3d15b-7b5d-4c9a-a24d-2af8ff2c349d,Apartment,True,8959.716989044133,2,817.9135748848986,Job test city discover professor mission.,56.44977400671473
+2023-05-24,b06146c4-2f73-4372-8811-7be109d09ab4,Apartment,False,0.0,0,267.15930958337344,Behind fall spend charge fire environment crime.,
+2022-07-25,2e78d0d8-ea93-4544-8d2f-34c93d8f9fd1,Apartment,False,0.0,0,482.3983821296209,Red suggest third and.,
+2023-01-30,0a843011-d30f-46c9-ab00-3da388b4958e,Apartment,False,0.0,0,889.8004067186001,Physical material we relate military their form far.,
+2023-01-26,7d745b07-14a6-4f44-ab09-e12059239f17,Apartment,False,0.0,0,113.29244826502185,Lay treatment reality.,
+2022-05-16,e8ced638-ac77-465b-8bfd-8e1de7191f8b,House,False,0.0,0,716.4996669013764,Around toward score easy show air important at.,
+2023-01-17,69fc76ad-e239-4081-a7b8-8fdab7b9e258,Condo,False,0.0,0,860.7863204166534,Relate second rich century marriage something.,
+2022-12-18,0f30a7b7-add6-475a-bfb9-3e523479f14b,Condo,False,0.0,0,363.8183976151846,Window others laugh often test girl.,
+2023-06-28,cadd9d15-cc24-46a0-8e72-5510720a9aba,Townhouse,True,8676.075015093127,14,240.0887541158108,Standard save listen bill manage.,23.50453304207214
+2022-01-02,a797c9dc-d241-4703-a1fc-ff4de1c0148e,House,False,0.0,0,966.9651110030728,Fine of trade hard collection.,
+2022-12-18,6b8649c8-f8ba-4498-95be-72d80d9da68d,Apartment,True,6918.691016578149,4,443.9251498007316,Bank seven example money identify pretty.,75.65315184227948
+2022-08-26,e5fb8eb0-9948-4b88-9407-6cc6bb2f6df3,Townhouse,True,2842.5672381727168,9,201.11256506370904,Student create behind community magazine pass color people.,69.33614160447311
+2023-08-09,4d442f29-0953-4f0a-930f-57df37bb4b72,House,False,0.0,0,174.54406254857227,Energy country movement result affect best left.,
+2023-04-19,e7e60772-8633-4914-acd6-97ad1debd19b,Apartment,False,0.0,0,718.0022163501113,Already range time floor some.,
+2023-02-08,52952584-1d1d-448d-9507-d646dc0900bc,House,True,6226.577100614881,4,441.6013545945807,Sit provide ten.,68.86125149359279
+2022-04-05,4edd9f14-f9f2-4e00-a0cb-17020cd23f79,Condo,False,0.0,0,359.7706606698257,Risk generation kitchen accept chance put land information.,
+2022-10-19,07f21f28-e60e-4217-aa40-b4181fb2c47f,Apartment,False,0.0,0,683.1078314088253,Study letter although dream sing radio allow.,
+2022-07-07,48165bd1-ba78-4c50-9101-f0eb4f6a0e2c,Condo,True,6921.940208308461,18,866.2289807263859,Candidate edge voice health than letter course.,29.689060807164413
+2022-03-11,d171effe-0024-4ea6-b266-1e384e356fa1,Apartment,False,0.0,0,223.54171489767094,Individual think house fund believe.,
+2022-08-21,1f1c3bb6-0b14-4eab-8b8c-5ffbd935f613,Townhouse,False,0.0,0,561.1246972653388,Hundred prepare create serious star.,
+2022-01-04,5d9baa58-4a17-4c91-b19c-ebea2e538649,Condo,True,7066.34986884071,15,874.7435635720517,Consumer serve street student suggest.,52.65734544933708
+2022-11-05,aee96c0d-be48-48a2-abd5-b96623ce6c5b,House,False,0.0,0,328.9078070275217,Financial figure seem return couple nice investment try.,
+2021-11-13,4538489e-66f0-4a8b-b536-209aaba84dde,Apartment,True,4001.5231765584936,18,756.0106137030089,Window study some respond choice.,36.10504082886511
+2022-05-19,8e4ac0f1-75f0-44fa-bd35-3011fa55c5b7,Townhouse,False,0.0,0,174.8166809517673,Six still choice current particular.,
+2023-07-07,a81a062f-bcfb-4899-834d-2a08195ec682,House,True,9298.715746793529,5,771.7588990492281,Finish learn dinner movie treatment.,83.7791417678815
+2021-12-03,f877382d-a766-4154-af16-cff1ef14eac9,Apartment,False,0.0,0,601.2221205276805,Contain practice field energy former herself either.,
+2022-03-14,8ce5bb04-f9f4-4e83-a0fb-365f88d23e5c,Apartment,True,5182.507395079568,18,847.2723804781126,Must data song significant no end.,25.81978503494289
+2023-05-26,f79c3871-cc84-4803-9c01-4c2182d745af,Condo,False,0.0,0,735.9739767773902,Important director finally race throw toward respond.,
+2021-11-29,368ebc41-80e9-48e3-883a-659c52803529,Condo,False,0.0,0,417.2725794391615,Because light partner but item notice.,
+2023-05-06,0b241c6e-3805-40e4-ac7c-61f93a2a93f8,Condo,False,0.0,0,645.7089430471508,Guy of lawyer hit short recent quite.,
+2022-11-10,d8a8b739-efe4-4340-aca5-284e34e57a9d,Townhouse,True,2627.8662385181033,22,540.027780083359,Result first his.,3.184606937933121
+2023-03-18,2270a951-6a14-499f-a3fa-1671bd5b4cc2,Apartment,False,0.0,0,543.1099560518755,Republican brother guy.,
+2022-10-21,de6150ca-96e7-4136-a91e-b89295b7bee2,Townhouse,True,2739.1189121768566,5,613.1978935241475,Population night special huge.,96.40098376459025
+2022-08-26,c7f04d62-eaea-473f-b504-82088ffc83fd,Apartment,True,3588.729999413752,2,724.0559639105744,Machine region already.,43.83639508625347
+2022-10-25,c89451b2-db68-4c59-ab18-be0bb9bce1c4,Condo,False,0.0,0,293.9530725260597,Laugh involve own name.,
+2021-09-11,33a67399-0dbd-4784-979b-dbc52c934183,Condo,False,0.0,0,761.7580663521504,Mission ball my add.,
+2022-07-11,deba86d4-40f0-4770-b455-cdec01252964,Apartment,False,0.0,0,302.62564998534435,You book much.,
+2023-08-12,22553138-444e-497e-85fd-5d1aabc84a40,Townhouse,True,9129.114194549398,18,591.5935444476577,Charge us section head.,19.27274018927231
+2022-08-03,79985b7c-602b-4e87-bd90-4368f7d7f80b,Condo,True,1191.5327039589386,12,281.6099633988267,Father material play control I audience war.,48.654111098079596
+2022-03-18,cb1ec718-da50-4a86-833b-39088fbce9bb,Apartment,False,0.0,0,255.3547012364125,Stop voice sign family doctor organization.,
+2023-02-04,6e7a8ed2-96e4-445c-87d7-316c2ba2055e,Townhouse,True,3265.762083102265,17,780.0250063693297,Plan sort far role election.,43.16538595980748
+2023-01-17,bac79950-b78b-43e0-989c-7a0453ccf048,House,True,6829.1760348615135,19,267.0081395452686,Meeting PM reveal relate number lay animal party.,76.65526059184144
+2023-05-24,5d7c148d-8091-4ba7-b1c6-8c0e372ffd8f,Condo,False,0.0,0,295.9894235315222,Push maybe might western role lay result.,
+2022-02-04,4ab44895-153b-4a2d-a6d7-928710cf9f3d,House,False,0.0,0,941.8705744766273,Recently beat interesting article.,
+2023-03-14,8566027e-33f8-490a-835e-55526d969939,House,False,0.0,0,326.0974356986991,Send beat right skin.,
+2023-01-28,3a57d405-8552-4682-a615-35a39cb1d486,Apartment,False,0.0,0,359.8299700755013,Generation even why life great.,
+2022-10-24,1b5cb64e-20a6-44da-b6e9-bee87345c9f5,House,False,0.0,0,466.7734700277946,Recent dark say information.,
+2021-10-05,a606fed4-47e7-4e33-8e6f-3e65303473b2,House,False,0.0,0,290.51118936277993,Soon message history rate garden.,
+2022-08-28,2c96576b-ec9b-4e8a-aa48-3425bb856556,Condo,True,3204.0542506491356,7,648.3034042274166,Wonder democratic return decision heart some world rather.,90.48373094730306
+2021-10-18,1f9081c3-d63a-4077-9e47-c82522aba655,Townhouse,False,0.0,0,544.5861023055643,Allow trial idea control deep.,
+2022-06-14,634dd2dd-bd2e-45cd-8a19-d3231868331e,House,False,0.0,0,613.3764237327414,Road stage cause talk.,
+2022-01-29,fa0bdbc7-a49a-434a-b8e9-2a586b8075e0,Condo,False,0.0,0,223.0312001997957,Push short likely window past career eat.,
+2023-04-29,50627aba-eb8b-48c2-a787-eb5ca9883122,Apartment,False,0.0,0,986.9678728897504,Get huge discover international.,
+2023-03-24,31d08d41-a070-49b6-9818-ed15daaf05d5,Apartment,True,6190.4277429682925,12,914.7148703510029,Fall drug price.,52.46513343471443
+2023-02-22,a1085dc1-97c7-48e5-a115-e23baf038e00,House,True,9273.909065590336,14,226.62227989809998,Threat right good cover.,27.022987885324433
+2023-07-10,ee31a917-af3b-4e20-989f-b5c93033b49e,Townhouse,True,1477.113135334656,21,976.9330265042737,Wind man management however be senior sport station.,66.93443727545957
+2022-11-24,48f3ca86-62e5-4fd8-b6cf-8c5fb6d0caf9,Condo,False,0.0,0,739.1485938513285,Drop stand card why ball.,
+2023-01-08,b3b3b426-1c5e-415c-aaea-648e0252ee68,House,True,1642.6742744046928,15,534.501650083916,Explain community resource sit early.,67.58599781243161
+2023-05-17,eab1bda4-cfd3-40cd-bbbf-ece1d39eda21,Apartment,True,1295.4201010999263,24,781.5001145510028,Join conference include top.,50.83456828713766
+2022-04-29,904d3641-157b-4e2c-96a3-74fa80c9728e,Townhouse,False,0.0,0,899.2287413792761,Sell paper hear case alone policy visit.,
+2022-01-17,01fb0798-5f66-4d96-8e42-27fb2fb02e92,Condo,False,0.0,0,897.6585257998133,Son themselves bag Mrs yes.,
+2022-07-04,d644ba39-c952-4d20-bf20-46dbd28ae8df,Condo,True,3722.784352834999,23,120.32116233630813,Religious image research law.,23.404437414535227
+2023-03-07,355f1008-5494-4bd4-9e68-16eb80fbd683,Apartment,False,0.0,0,446.4545538993122,Argue easy available realize religious.,
+2022-10-20,f3989660-977c-419f-a0fb-99f6c9923dfc,Condo,True,5560.860724574941,6,246.9590067942427,Among modern show ever prove south.,53.73341785345984
+2022-05-20,c1a542d2-6b30-4fa0-b80f-9d816c477b27,Condo,False,0.0,0,927.0143414675285,Conference occur find raise power.,
+2022-03-24,ca562e28-4b8e-4bc4-9480-8e2e27f9c9c1,Condo,True,5037.509724106452,22,306.832786711497,Industry help discussion question everybody level game.,16.409363170486625
+2023-06-03,96e20c8d-05a4-4d54-837c-ac6e269e9c75,Condo,False,0.0,0,868.4652513358219,Us health step work deep personal street.,
+2023-04-20,dd72be8c-1533-430c-93e0-cec6f62a8708,Townhouse,True,2325.30301626622,12,118.13246967842854,Event individual character without itself.,13.133688984650293
+2022-12-23,3062657a-6f98-48d9-b260-0a730ea95505,House,False,0.0,0,741.419363242521,Specific student institution final change science.,
+2023-04-08,6a112ec4-f6a1-430a-958c-936f4a8ede4f,Condo,True,8599.723893638646,1,152.7461712482576,Cover save mission month race again wife.,38.012331902901565
+2022-04-25,97f5a9c6-f97b-44ed-80fa-8b02a525cbcc,Apartment,True,2492.83487936851,1,977.4188041325774,Forward watch where attack tonight best.,76.98826724814411
+2022-12-23,76d0939b-3aed-4e5a-a1bc-4cfa85403374,Townhouse,True,1285.7867023206811,22,135.70367185781816,Writer its time degree here parent media.,9.416367489942523
+2023-02-01,ca9c995b-b3b3-427d-9fa5-c323c9aa2fd1,House,False,0.0,0,147.01578776799488,Coach about throughout school somebody.,
+2021-12-01,86603d24-2379-4964-a6e4-a504b7487603,Apartment,False,0.0,0,705.4136535706828,Wife car red country together resource.,
+2023-01-25,4f823dfe-92be-4e4b-b1e8-2bbcd57bd116,House,False,0.0,0,445.94724752419694,Picture PM charge natural.,
+2023-04-15,a61e2a03-1b7f-4cb3-a440-9dcac355612c,House,True,8653.992285905904,7,588.2863012621212,Him similar shake address reduce adult direction.,27.011299041986568
+2023-08-14,d84d55dd-1190-4d8a-9fe2-6b4b1420c4c9,Townhouse,True,2311.2403426565634,14,364.6223891256065,Arm scene trade worker always only.,11.231600317282187
+2022-11-30,659095bc-1eae-4587-a6c3-52e8d12628c8,Condo,False,0.0,0,172.2289058645972,Stage executive four north top class.,
+2023-05-03,99fdeb77-182f-4056-b3ea-f385ff6f2b43,House,False,0.0,0,941.1185499124075,Machine quality rather specific task.,
+2021-10-14,289496e2-fa09-49b7-ae93-ff95e0b3ab45,Townhouse,False,0.0,0,119.40195306807937,Put dark bag for.,
+2023-08-17,091f515a-b163-45a8-9d83-2eca46e62a70,House,True,3350.0027012675355,20,484.17779323446695,The city image lose only.,71.86950647745553
+2022-07-20,99be79bc-ea77-4990-9f5a-8e48991df298,Condo,False,0.0,0,461.39594388221076,Democrat grow military me left Mrs hold.,
+2022-04-14,53382bb6-d37c-45dd-bf91-f2c94b4031ea,Apartment,False,0.0,0,194.60517841381,Ten continue feeling feel hair outside minute mean.,
+2022-12-04,1903eee2-4abc-4adc-b98d-9c53325bcbed,Townhouse,False,0.0,0,978.0023368478152,Necessary drive read their lot certain serious big.,
+2021-09-28,c0114472-3376-4a6f-92ac-61029e88b824,Apartment,False,0.0,0,536.1246008585155,Begin happy science physical.,
+2022-04-04,384a6846-1ba6-4f2c-b04a-421a47d8bb17,Townhouse,True,7108.818012753662,3,934.4012607771369,Seek another performance our society not.,18.767780768642318
+2022-03-23,c20865cf-5168-4db0-9d2b-fe82a09260ee,House,False,0.0,0,425.2748084219864,Firm floor then certainly draw.,
+2023-04-04,399dd3a2-353c-4ba2-b395-a378aa447d4d,Apartment,False,0.0,0,314.95634689952703,Break range strong effect section color spring.,
+2022-10-13,4b682df8-9ba1-4ef3-aab0-4570326252bd,Townhouse,True,1241.7211745454129,3,706.0467706147255,Including simple century everybody lead.,92.99032362359358
+2022-10-13,f61e0c8a-7e80-40bd-bf41-dc6279fcdef6,Townhouse,False,0.0,0,585.5102792247784,Debate address today memory.,
+2022-07-10,dbc024d1-1556-4b80-b07f-3dd9d0822dc3,Apartment,True,4100.300614622399,5,985.6558227067791,Miss number commercial sort them.,95.47009895825823
+2022-12-30,842d1369-401a-432e-8f13-3ea766a5effd,House,True,5004.441672393334,12,301.0836996232938,Man candidate likely far understand bring individual.,28.55472480181589
+2021-12-22,9d2de127-d0c3-4353-87f2-cecb3c777989,Apartment,False,0.0,0,564.2917474515971,Painting peace once thus green drug.,
+2022-10-11,b2b3d8b9-de64-4701-a6b2-f22308078e8f,House,False,0.0,0,359.6278998015051,Picture second such memory arm.,
+2023-01-17,34399c2a-f3b4-45d9-bb1f-a7f6bd0ee1d2,Townhouse,True,3499.436131187745,22,621.7739830036879,Wish national business similar future cold.,89.73820909824454
+2023-03-19,53502000-ad06-41e3-b196-60e2ed72e372,Apartment,False,0.0,0,325.57352605447494,By hold those realize why fill.,
+2022-04-23,965df47c-63b5-4a38-8491-e296f7735362,Townhouse,True,9643.40315436143,23,479.732756782824,International drug serious large case study security.,29.260345199867498
+2023-05-23,af1717c9-8a80-41bd-9d5b-d6cb36d65365,Condo,False,0.0,0,322.5933679474416,Own author issue side.,
+2023-02-02,f1161dee-f121-40b5-a351-581ef65a2bdb,Apartment,True,5268.979282619864,23,324.78613395728814,Partner the career clearly effort issue customer Congress.,93.52542755531935
+2022-06-21,7afc3e7f-c57a-43fe-ad9d-6e3e0b42c221,House,True,6809.368715490122,22,522.6692114232378,High wide determine will region appear series.,36.193533276469644
+2023-04-27,d0788319-5037-4ce0-8934-b9d997376987,Townhouse,False,0.0,0,624.6311169478245,Glass plan from game.,
+2021-12-20,b95ce8dc-0b67-4548-8873-e3ca07346de9,House,True,2671.66416917271,21,950.1585608599294,May else stand deal short responsibility.,45.733054895357725
+2023-04-24,e9ac6d1b-a866-45e0-af69-7e08d8cc478e,Apartment,False,0.0,0,881.633345555689,In whether black trial consider unit fine.,
+2023-08-25,383fcbc8-85b5-4fbc-8ada-b7c56d6d85ea,Townhouse,True,8597.396794886012,23,169.51879075464845,Argue beautiful half entire college activity vote hair.,66.31329054493557
+2021-10-16,5e089980-b616-4e21-bb4d-daafd833ab8c,Condo,False,0.0,0,162.43477188760468,Pm type democratic social.,
+2022-01-03,b7d67a59-e3cf-463b-8257-87a0e26c0e32,Townhouse,True,6388.661262558751,15,844.8874240971129,Ready expert share job chair affect.,22.37291996487495
+2023-09-04,ee800b8b-a5e3-48f3-a4aa-52111a34130f,House,False,0.0,0,270.19125963674423,East fire pretty red race rule like.,
+2022-09-12,05e9717c-9352-4960-a746-7bd0363b1a67,Condo,False,0.0,0,416.07124197833457,Drug for worker skill.,
+2022-12-30,ad9ef26d-3d7b-4bda-93df-6b361cc8f78c,Apartment,False,0.0,0,542.8041588014535,Heavy parent something thousand make real long card.,
+2022-02-16,028fa22f-38a8-4e3f-8b24-4d4d7d34bf1f,House,False,0.0,0,276.2163996426914,Whatever message start blue himself city.,
+2021-11-28,5dc7ae8f-d019-4a7a-bf8a-429c2bf071ce,House,False,0.0,0,974.281282827247,Difference run sign weight.,
+2023-08-02,ad546f2f-0135-49ed-9cc0-05bfac604ed7,Townhouse,True,8066.042002138466,21,188.4139988614895,Land on which woman.,43.174062745680985
+2023-04-30,dc1bae02-442e-4712-92d0-7fc7fdf0dda3,Townhouse,False,0.0,0,833.3020147472711,Health position onto third exactly open play.,
+2022-10-04,35b7b710-6700-40bd-bf3d-d17d95e45cb8,Condo,False,0.0,0,409.6495908917481,Military tend our again large perhaps.,
+2022-06-18,541b8864-6459-4e27-98d5-7f242d70bb85,Apartment,False,0.0,0,837.2027138207164,Employee president usually soldier.,
+2022-12-28,4202026c-9f55-4792-a88d-58af334ec24f,Condo,False,0.0,0,650.0363363519309,Bag certainly nature rule.,
+2022-06-21,c2e73c0c-d2be-455c-b40f-aacc7e277463,Townhouse,True,3376.988381544798,1,457.9569580446006,Dark writer election positive.,74.87071554726442
+2023-05-20,5a046224-16a8-4a59-84b7-f8d9477e28b0,Townhouse,False,0.0,0,196.96131615304904,Which training manager fund.,
+2023-01-10,1843d3ed-8d19-42e0-8551-37d23f342dcc,Apartment,True,7194.719237649964,23,925.1226163853975,Else though cost certain seven drive.,34.26833386040858
+2021-09-25,64a62019-4ed7-4ce7-b729-63fc95356463,Townhouse,False,0.0,0,458.8886844114141,Most first political street important certainly drop detail.,
+2023-07-29,4c3d844e-edde-4de3-8661-9ee3ccc7ff72,Condo,False,0.0,0,292.45658621285816,Sometimes agree born full identify perhaps responsibility.,
+2021-11-09,b8905509-8813-4ce5-8f86-60e2ba8437fe,Apartment,True,3475.9144116622506,16,785.8904417457675,Meet Mrs Congress what so administration.,93.13536926218478
+2023-03-14,81cb723b-1f55-4e21-8399-ac03ab10c98c,Apartment,False,0.0,0,547.093422503877,Expert conference public others might artist.,
+2023-06-08,a971f83f-e9e4-4bad-b1a6-178dca997d3b,Apartment,True,3022.7572118403878,5,996.5500436734593,Deal one three both.,70.59184695177323
+2022-12-24,4f0ee02f-835c-4460-b3a0-4053302a9fdb,House,True,1110.3844940372041,21,904.9090183783984,Assume appear military center thousand newspaper star.,62.330867792437964
+2022-09-14,d8062a73-1f28-419a-8b0f-79a1bb8bbac4,Condo,True,2645.852937965532,24,557.6183016139354,Season money could full.,20.292185593332057
+2021-11-07,953eff7c-3a32-4458-856a-0930ce870549,Apartment,True,1467.268831618532,5,520.1201770243513,Watch suggest first culture.,24.050478604446333
+2021-09-25,2d6aaf4f-0d82-4138-a8bc-443a8d5b4619,Townhouse,True,9340.597535725738,2,609.8313252071048,Return experience mission school minute.,49.50285307933463
+2023-07-05,4aa051e6-cf1c-4d56-bdb0-fc6b4677a1b7,Apartment,True,1867.5834059581466,2,688.4784804685027,Possible activity million.,68.91457021896484
+2022-06-08,036371b5-e997-43ba-b753-d4522728b361,Townhouse,True,7338.338621901142,1,172.13787165848527,Follow exactly up few certainly computer open.,16.506214924760886
+2022-11-22,7546890c-dcdb-4930-9488-4098ed22fdd6,Townhouse,False,0.0,0,866.475306190987,Central listen to suffer they sign.,
+2021-12-19,447709dc-95c5-4123-b683-4bd0c95ed720,Townhouse,False,0.0,0,885.834487896323,Strong something day machine.,
+2022-11-12,b17f1c68-9249-4e5f-977c-bba025de9ff6,House,False,0.0,0,466.54140746276266,At public call federal.,
+2023-02-18,6307a967-3f78-422a-9467-504a2f38b059,Apartment,True,7944.5969213111075,10,874.1728118241707,Upon cell job early clear provide early again.,84.6095442111133
+2021-10-13,5b7521fe-6970-454d-b8eb-8323061a1c58,Condo,True,5970.644571822435,12,950.504330661515,Two employee drive network society.,10.757261535394381
+2021-11-24,8359cd6d-d76f-4788-b4e7-d34edf73c49b,Condo,False,0.0,0,906.3297362002502,Age he treat seek wall million easy.,
+2021-10-07,1bec2b1b-7e3c-40e9-9087-7cd9fcd27285,House,True,6063.6880578891205,10,983.2007060675073,Draw necessary daughter go employee yeah letter along.,89.27236097210624
+2022-12-17,e0c053dd-58eb-4a08-b293-b4f4e684137f,Apartment,True,8688.407133585551,6,588.9633590487229,Thus director girl.,66.94857060121838
+2023-08-17,eb1fb114-8ce9-4a72-9ea0-3c3eb47101fe,Condo,True,2716.9044956082494,24,583.0765977172504,Model treatment two your compare.,70.14927773909811
+2023-06-13,da7d28a8-d93c-41cc-a283-f8cddc6b8314,Apartment,True,9244.706531659998,2,456.1458190735916,Stock staff probably example too point.,1.0663836180294095
+2022-02-23,20f5892d-d3a7-4330-bb53-7aaafee324d4,Apartment,True,3124.3541289285413,23,984.3623471054646,Yourself there become that door.,17.469644166277774
+2021-10-20,55960518-dee4-444b-880f-cce09d3beeea,Condo,True,1161.2892649004461,21,863.6849737778472,No almost set unit ask.,66.49942534100227
+2022-05-05,3d75f883-3217-4927-a7e0-26840cc52f10,Condo,True,7620.749615772079,5,328.1200126121355,Toward recent learn model.,66.07055556175554
+2022-08-11,2a391006-b612-4131-a27e-c806faf15e0e,Apartment,True,1082.3167953231698,6,799.5093372427503,Radio even people him yet.,38.45926075399386
+2023-04-09,52b89ae1-bc43-4ebc-bf1d-ce36d3a84bdc,Townhouse,True,6112.347999300549,15,576.8816807087428,All but sport trade under provide no hundred.,18.60327486081893
+2022-12-10,f55da09f-1fb6-4b17-b8f6-a3e776ef35e5,Apartment,True,1803.1252698391556,13,189.76833935388606,Soon drug avoid economy represent safe hour.,47.50342173429038
+2023-03-30,e55650bc-82d5-47ae-bfb1-08a69f489d00,House,True,9483.255912184972,24,872.6801436821686,People follow science entire civil resource best.,82.64983632736507
+2022-06-25,228431c5-03a3-4ee8-876a-b84b40d9f7de,House,True,2654.759979845924,21,850.6718518658964,Spring police claim positive hundred then.,61.99264385810581
+2023-01-26,f9c35ad3-ef56-4171-b4fd-6f9799f6aa04,House,True,9263.285183069333,9,914.2062145585637,Rise billion issue strategy common bad process woman.,82.62449941633095
+2022-02-01,76545034-7e70-42a7-879e-6bcd314dd657,Apartment,False,0.0,0,207.7560342454166,Everybody land want central.,
+2022-09-15,87f56937-4d1a-407b-8881-11d1cd2b0220,House,True,6948.444611948746,8,526.7987668811031,Prove appear water until.,9.394249228793573
+2022-07-30,50768ee0-ccf5-41f3-a78c-d5a578220ad0,House,True,2376.528630481219,3,302.0983295991883,You morning wrong.,57.18706782575504
+2023-08-11,9ac71532-d00d-48a8-a60c-1dd31f3a6caf,Condo,False,0.0,0,843.4990906143375,Company computer science series skill itself artist.,
+2022-11-30,8be4687a-d3ec-400b-a173-b204be55525b,Townhouse,False,0.0,0,447.0602521662308,Work community improve collection cause indicate.,
+2023-03-04,3e1a6fd7-8b04-41be-b7f2-c743708bdb1b,House,False,0.0,0,821.5397682480232,These focus possible number.,
+2022-04-22,2210aeb7-3a0e-4846-b572-7d82a8e2d072,House,True,6533.340509748555,9,481.63802601964704,Reason system garden hear.,45.55109062964202
+2022-03-09,3a8218e9-c3be-4780-af31-a21f673bff0b,Apartment,True,6091.124913133389,20,507.3384168895917,Board meeting subject stage anything.,69.49597822375475
+2023-06-24,3ef0c18f-e135-4b2f-b268-8ca987a00605,Condo,True,3479.311574956185,16,720.8479914006945,Base start much manage address health evidence each.,12.297768295214551
+2022-12-09,7b836c84-1238-4a55-9b58-391b106e8513,House,False,0.0,0,723.6207958662707,Edge author month rate oil wish ball.,
+2022-07-12,940df435-bd8e-48ff-9e5c-1452ba800e9a,House,False,0.0,0,534.5592823037628,Office subject American remain accept hair find.,
+2022-12-27,78a7f983-4f1e-4f89-b92b-f89cb8cc254b,Apartment,False,0.0,0,175.47275856288934,Necessary community single training room.,
+2021-12-28,6de3a896-06f6-4c44-945a-876222416dd7,Condo,False,0.0,0,589.7888130803556,Nature main prepare everything which.,
+2021-09-25,94ba77e4-dff1-4668-915d-59a8e720f442,Apartment,False,0.0,0,339.6468805500764,Understand seven opportunity officer ok bring soldier item.,
+2023-05-20,5b47d913-0f8b-45c9-9ad2-a1863eaa7933,Apartment,True,7389.918908429294,22,486.0462519068341,Speak note government college among financial drive.,40.681905871150136
+2022-12-23,fbc3be37-c6e7-4952-ad51-ce55865cf43d,Condo,False,0.0,0,181.62162977491255,Situation woman thank inside fish.,
+2022-08-27,996ef7f5-8b31-42dc-9b46-8e631668521a,Condo,True,3138.255470166397,24,477.2565143420531,Continue professional well.,88.48797902378695
+2022-08-23,d78ca3bc-f7d0-4588-b29b-4d86a75a7a91,Condo,True,3336.5176067554826,10,394.9093984057635,Sign poor ever small.,85.51780476583741
+2022-11-06,d7eacbe2-2b76-450e-8acb-e6c316603489,Townhouse,True,2687.665822061832,10,289.91826099520654,Phone character politics ago.,54.89594780123554
+2023-04-11,f45c5666-3a05-4066-a785-0a6c8113457a,Condo,True,4782.477039838213,2,341.25896230322496,Reflect stuff game change.,55.307416915068266
+2023-07-14,6df6945d-461a-4d89-a621-dce7b31cb944,Condo,False,0.0,0,431.90323734106283,Pay federal yes case significant debate.,
+2023-08-17,8e53c71c-2336-4c38-a7da-7c98f4380c93,Apartment,False,0.0,0,368.8226405139116,Night ready senior where a check off.,
+2021-10-19,e9bffbe4-b8b9-45a1-bac7-2a1ac9709832,Townhouse,False,0.0,0,635.8551903434288,Change fill community character our.,
+2023-01-25,a2c590b5-579c-4a65-9d4b-e2ac5f42de27,Condo,True,8090.942523003828,5,147.93502112649873,Everything small exist live herself character.,79.43784392676737
+2022-11-27,f27ac087-f515-4813-85f3-eebaf3ff350d,House,False,0.0,0,323.77984183805347,Street necessary detail keep call kind.,
+2022-03-28,d4bb3944-26d8-4add-9a70-f57eb4ee4ec2,House,False,0.0,0,658.5230420961683,It film thus hour blue concern believe.,
+2021-09-28,999f9c0c-9321-47a8-960b-576b712322c1,House,False,0.0,0,980.6755927726845,Require industry approach let appear close kid.,
+2022-06-28,fdc6c3fd-11e6-4ad3-9958-d4e08305ddfb,Townhouse,True,4182.865847209919,16,705.3066290726108,History great organization add woman open natural.,22.387290266627357
+2023-05-10,cf775740-55ca-4fc6-9593-11e8fe6edb8a,Townhouse,True,1183.7488457706027,3,174.53836975186144,But dark win stand vote air.,26.393039641287285
+2022-09-21,c8a4cf75-8a2c-43fe-9feb-608bdeb493a1,Apartment,True,3311.4734604297287,4,770.4054573097204,Such term gun follow recent.,6.417471339174973
+2022-04-29,6c1b95de-e1d9-4fd9-9415-112fd3797bff,Apartment,False,0.0,0,224.73534681536384,Anything fish surface sing care.,
+2021-10-10,bb797693-ca18-45e3-a49d-8cf77cc01251,Townhouse,False,0.0,0,618.6575934418975,Identify view find.,
+2023-06-27,dc093684-bb5e-4318-999c-91017a7d1041,Condo,False,0.0,0,816.8326589098897,Once finish point share lay clearly record.,
+2022-01-23,29b8b3a0-f10a-4dcd-8cd9-bc65a53f9e70,Condo,True,3183.0825838073724,21,929.619476283185,Professional despite surface each.,90.11329439567893
+2022-12-23,19d2ecd7-7249-41d5-8a1b-14f579b0d422,Townhouse,False,0.0,0,624.6703143132548,Building work of and fact beyond.,
+2022-12-13,5043f4d5-4e31-43e3-94db-2928d77ebba8,House,False,0.0,0,449.00007074639825,Interesting nothing who blood second.,
+2023-01-20,4f83b691-0812-4435-9bd3-3843402a6e1c,Townhouse,True,2080.7945692076455,17,519.7506281850406,Game big long firm recognize.,56.430640418153686
+2022-04-04,fa96a605-06c3-451d-bf5d-caa0ed0fab7e,Apartment,False,0.0,0,198.365136345243,Manage give attack young old.,
+2022-06-25,d8a9eed1-0764-44f3-a992-e6a324e37d3b,House,True,1837.7128739796776,18,164.2897706085142,Buy deal write run hope.,21.399339559816067
+2021-11-13,c3c7b6f4-4128-4cd7-b2b6-5f23f3831c5e,Townhouse,True,1455.3818907760974,9,366.1612272260951,Reduce almost both tonight financial.,94.19103443427733
+2022-11-24,9011d58d-b96e-412f-a7f5-3edb119f0afc,Townhouse,True,6234.330185983124,3,700.8747306490893,There pressure water east way.,3.9595905542693988
+2023-05-02,221d80d2-5f2e-4462-8251-4e2a6eb008b7,Condo,False,0.0,0,667.0853384754823,Agree he order international between represent rise.,
+2022-12-15,3d5a38a5-1c74-46dc-af8a-987ad6adff8a,Condo,False,0.0,0,522.1688726118851,Building compare remain positive benefit far billion.,
+2022-09-21,19eb602f-ac76-4c64-a4c2-e7301f7b02cc,Apartment,True,7693.891849942184,21,493.18618393954307,Strategy raise sense large under follow easy live.,26.967680630276615
+2022-10-31,f9cb688a-ce01-45e0-a2fa-82e356fe0354,House,False,0.0,0,381.06120469045953,Phone again push break source executive party.,
+2023-01-24,77a46082-cbca-402c-824b-0be17d398844,Townhouse,False,0.0,0,137.14932147286498,Product here control conference over side natural.,
+2021-09-25,22f6bbfe-7777-495a-8e5a-7bd11a674fe9,House,False,0.0,0,184.05354089676518,Stop must gas station because sea.,
+2023-04-09,59ccbc62-cf0d-42cd-ae5a-b85e1e662e2d,House,True,5474.450589349813,14,316.3477359771734,Number interesting accept end.,97.31901175035914
+2023-01-18,e3bfbd11-8fee-47ce-9ded-a437ceb3da38,Condo,False,0.0,0,213.99687741367103,Know daughter young region police I power.,
+2022-09-07,6f6483f1-6942-4d02-93f5-45fd10cbd85b,Apartment,True,5028.6042854115,18,500.97135906351167,Detail play likely this fight.,80.26694910720336
+2022-09-29,518d6235-4e06-44d4-a728-dc8dd5016303,Condo,False,0.0,0,202.14058103327926,If home sport statement country.,
+2023-07-23,da48fe88-f816-4f2a-82c4-257d39885cb4,Apartment,False,0.0,0,365.09098937964563,Although machine doctor whom.,
+2022-01-24,7a189308-de3d-4110-a1e7-4741513aab95,House,True,4395.669157752985,11,196.2596704293091,Personal professional throughout they lay treatment later.,77.11464833057519
+2021-11-05,79cde70d-67a5-455c-a319-9ba572c03fb0,Townhouse,False,0.0,0,960.3809923689922,Tonight two order standard career guy.,
+2023-02-17,a73365ec-7627-4a45-9cfe-a830352b3348,House,False,0.0,0,823.7905016259605,Forget newspaper Democrat force theory hospital star statement.,
+2023-08-20,4f42df54-9ddc-48c4-9b36-385d9e70b5f7,Townhouse,True,7351.037580353954,24,891.1343255292966,Experience decide country side radio beyond respond.,33.50589018545854
+2023-08-26,23dcaa05-78c0-40e3-ba11-e2542e139b65,Townhouse,True,7069.499049822283,6,274.2520453859499,Story leg on say hand light outside.,69.16849851393506
+2022-02-25,cd0ac533-6c8d-4b68-b961-6c8d0c9152a2,Townhouse,True,4887.664953971964,16,888.78333102598,Particularly you again according religious recently bill.,36.279587188737274
+2022-07-15,c5e61eb4-5763-43ad-8837-5efa726db9c5,Condo,False,0.0,0,909.7170098908066,Imagine little another figure.,
+2022-08-09,37ac90fe-ac64-4bb2-ad85-88544d5960e3,Condo,True,3148.1710232967616,7,804.7788783302499,Simple must take start.,42.20838126738301
+2022-07-09,17206831-c7e5-4acb-992f-4f4e8f31780a,House,False,0.0,0,694.7265038350547,Loss safe second short whose say trade even.,
+2022-07-23,37a1fab8-8c5c-460b-92fa-7e1e002a8a87,House,True,8133.429400317532,18,210.67610361836205,Truth organization serious fish soon draw wear.,43.40385571895886
+2021-12-27,7b85f998-f942-4896-8549-f0d522386140,Townhouse,True,9256.661528338765,18,502.36827671034956,Indeed gas action seem process standard.,27.41500152172903
+2022-07-11,c1a1de22-806b-473b-a5cf-7373fabc637e,Apartment,True,5301.868770117365,4,904.8240077169858,Baby without two big.,99.12968887710002
+2022-07-22,56519501-f416-4e0c-b07d-7a5f3056490d,Townhouse,False,0.0,0,232.72093014467404,Figure finally while.,
+2022-05-18,072579c4-10c3-4260-9d4c-701fd178ec28,Apartment,False,0.0,0,216.9069825209286,Discuss language election employee week case.,
+2022-08-10,13c10ef8-8981-41cd-a50a-91fa53dae99e,House,True,3456.1339963324654,2,230.6498897025799,Develop notice choose rock guy.,6.9218090366690355
+2023-02-02,00c1fd96-840d-45d7-8905-e5fbaa809cc7,Apartment,False,0.0,0,100.51486605193753,Size system bank everything computer along note many.,
+2022-08-22,6f40971f-6d9d-4bd6-b7dd-3a92b747f415,House,True,2192.6998747896378,15,452.9455701440682,Respond although which somebody.,42.2443116176485
+2023-06-17,77b49daf-c62a-4622-ad4a-11a55f2328d6,Condo,True,3123.0022759955864,17,983.8376758668378,Red leader student whom.,53.707582084807505
+2022-07-14,4ffbcd9a-aca6-4d4b-848f-eca7ed341406,House,True,3938.0532282840354,8,708.2301275285455,Ability lot sound staff mind performance quite.,78.5798454283263
+2023-07-09,c9a87364-809a-4cc6-bd01-125744ecd0a3,House,True,7044.395495958742,14,783.9908219140344,Size yet beyond job down college teach.,58.25304031434515
+2022-05-21,0f8663d4-cbc1-4fd2-9cf3-4080d3ce6fda,Condo,True,6576.910010285847,22,180.3838712541966,War do change artist relate then.,93.64646678179267
+2021-10-11,2681222c-3038-4d90-a549-41f5b39ad94a,House,False,0.0,0,346.5203415456473,Page address car may.,
+2022-06-18,f5e2cf5c-a432-413b-b8fa-a6369d5f8bd8,Condo,False,0.0,0,891.8559455794854,Born particularly left imagine hair stop.,
+2022-06-11,fc1b6c16-317a-4d40-ae29-3272a18b76d2,Condo,True,1407.2145134149207,3,332.25188642022937,Growth recognize financial control at by.,48.34131985228892
+2022-08-03,cfb0bff3-4e30-456d-9934-2e7717af848d,Townhouse,True,8285.786457286365,14,933.3441494831194,Everybody represent meet I activity eye.,77.72691202328058
+2023-04-19,b3a7cd0e-2f88-4c48-9b47-125bd9992880,Townhouse,False,0.0,0,242.13687406676198,Cause system each reflect example represent.,
+2022-08-22,5cf3b1a2-3705-4669-a810-e7fa5443e1c7,Apartment,True,6838.749248448062,6,913.8612778288857,Human try generation too phone will important perform.,69.09546309386678
+2023-06-19,023161d9-4231-45c0-a1ae-88ee29acaa93,Apartment,False,0.0,0,376.2316006477076,Herself what animal drive.,
+2022-12-20,c3caf95c-1dd5-4b63-ac3d-1ee558b6311a,House,False,0.0,0,201.53740613404403,Yard campaign none somebody alone political strategy role.,
+2023-05-28,1ecb0e22-aae1-4b1b-b398-6390b1d34f1a,Condo,True,6631.134612214886,3,635.5543460326484,Table management on white.,57.97620040795957
+2023-02-17,858f23f1-cd2f-491a-ac49-52985d1a7bac,Townhouse,True,9073.876556112431,2,438.8742653741049,Marriage cultural consider work performance pull.,50.69601912612608
+2021-11-10,ae895e79-19b2-4b19-81f4-0f0de516ca87,Condo,False,0.0,0,955.5847485878236,Push example yeah arrive night apply.,
+2022-04-06,1eecb60a-60a3-490c-b1e7-587dae002c50,Apartment,False,0.0,0,818.8661147480947,Cover executive some on half sometimes take.,
+2023-05-24,edc4cedc-63ec-4a1f-a241-719b6c2508af,Condo,False,0.0,0,245.23683329280118,Allow defense laugh three affect.,
+2023-08-10,35f2b92d-9894-4b2b-a3e5-7b0fa71e0bfc,House,True,5716.307200361267,12,155.13942395520056,Soon factor behavior.,64.65953424847329
+2022-04-21,520ddf3f-c020-4560-a5f8-81843adc5bc8,Condo,False,0.0,0,520.2234860427641,Increase fine old set hotel compare hair.,
+2022-03-20,c99289ce-c5c3-46f7-acd7-7e6a4ecc3170,Townhouse,True,9173.452896292201,3,656.8311792092794,Top first control cause.,42.17776914157335
+2023-09-05,3852cb7e-e210-4fca-b962-ed05effa579c,House,True,7720.737772127214,7,492.71468459881044,Public film professor not available develop career protect.,45.299387745533274
+2021-11-09,1a4ec5fe-ae98-4a3f-820f-5b91242ed647,Townhouse,True,4417.882703344983,12,395.6561567511742,Will now American magazine choice concern beat.,74.3137770405227
+2022-12-31,10660a84-027e-4816-bc96-108d4a042699,House,True,1426.809953335454,17,997.0042697660341,Enter benefit police the.,25.69734994433106
+2022-01-05,bd69c79a-ffdf-49bc-bf77-d16b8b94b202,Apartment,False,0.0,0,337.04736447228356,Occur per let institution medical capital.,
+2022-02-09,a05c54e3-1f9a-48ee-ae22-0754622c4b95,House,True,4894.3378319568255,13,276.2117027319977,Alone media usually.,31.25510854005692
+2022-07-16,d83df697-7cd5-4c8f-ba7d-e2fd8b181b2b,Apartment,True,8400.644538193417,3,873.9652659462917,Office tonight nature bed.,88.19822631793703
+2023-08-26,12b1cc26-15a7-4a74-b560-12391c4cf08c,Townhouse,False,0.0,0,935.0701379426482,Me beat politics short believe door much.,
+2023-05-12,30b6d171-663f-49db-9ecc-fd0844e1af14,Condo,True,9388.047542926783,21,142.977657698686,Particularly especially stuff site speak avoid.,12.197639649992665
+2022-04-20,8bb2135f-537e-4479-a3e8-1835ce6edd76,House,True,2324.115743433823,24,901.8460804391119,Much return discuss contain speak account.,71.12108295402962
+2023-04-03,69adb338-8f4a-4e3e-a83f-8ae08cd36f01,House,True,6050.158126070311,24,999.435324941436,And PM information fire radio.,69.08084884509401
+2023-01-20,7ffcb96e-6583-4c39-9881-f6fc4b344bd8,Apartment,False,0.0,0,407.83332307450166,End before must amount short support threat.,
+2022-03-31,e231d6a0-be70-4848-8c98-bb973b704548,House,False,0.0,0,151.21331333067238,Subject sound world add where social represent.,
+2022-12-01,a0a945b9-e2fc-4ccf-bebb-0bb02d88f699,Townhouse,True,1187.4051586719104,8,665.2482895846654,Many current thousand radio fill evidence.,80.96519433280392
+2022-03-12,0ff54089-7bb1-4e10-a1a9-c2ec11aca2a3,Townhouse,True,3037.782330316972,22,848.94213481414,Will case on garden.,17.052734024786165
+2022-03-12,89369c9b-218f-42a9-b026-c109fe6cf706,Apartment,True,9427.870270412292,21,289.7771789590771,Herself author who sport candidate.,78.4971604342673
+2021-12-18,307cec1f-7334-4cff-8157-30bb5c781a1d,Condo,True,8576.354138195102,19,201.08254619313135,Method exactly reveal word sell vote.,67.93719452639728
+2022-02-09,bb8cc79d-c059-4b2c-8da1-ff14d791f59d,House,False,0.0,0,610.6548272839962,Commercial government often local nation.,
+2023-09-07,981692cf-e1b3-4ae8-a445-0d52fc500704,Apartment,False,0.0,0,279.5353432992921,Eight and the possible blue develop.,
+2023-05-16,b6460d62-3883-474a-bae5-76ac950224b9,Apartment,False,0.0,0,796.1304741013136,Case theory they back along laugh.,
+2023-05-21,a42bdc87-94be-489d-b00f-0edc01ac0cd5,Townhouse,True,9836.817038948224,2,504.01369969622056,Political action everyone first serious five.,46.07449181675521
+2022-10-15,1e26dcdd-b29c-41d9-94c6-260911343bae,Townhouse,True,3343.3735193704883,1,490.61696737003285,Picture difficult deep nearly peace gun yourself nothing.,66.42958107639917
+2023-05-01,4c572468-61d9-40a5-9c4a-8d82ed72f87e,Condo,False,0.0,0,418.23264569922895,Truth mother without or.,
+2021-12-24,bc3ee19b-768c-45dc-a8bb-06ea47517249,House,True,6324.055547323768,1,198.8395331485935,Various allow very interesting road act.,99.78301522387576
+2023-03-24,4d3b2a50-315b-445b-accc-51c2708ed6f9,House,True,2084.7747554770467,10,843.31595597881,Answer couple join gas although thought low.,23.534587856210543
+2023-01-22,5c3a146b-9102-460b-ab55-75e8784d443c,House,True,1822.6596094748256,4,124.36453773605024,Raise hear image spring during.,85.10664078561547
+2022-10-25,6c6b65cd-e124-4251-bd5c-f804868b44e3,Condo,True,2820.775625517176,12,671.1331449891,Establish situation yourself everyone.,20.526524816584736
+2023-06-30,02b82925-f315-4b89-990c-720b44a0eac6,House,True,9918.495005961307,11,785.0174395439257,Majority response doctor.,76.93603525709618
+2022-03-21,5aa4af42-289d-45ba-9e0f-34b6be7fa458,House,True,5556.442135992213,11,973.179764056699,Coach blood building determine card level heart next.,65.29088358543214
+2023-01-02,2374d70a-d54f-4609-bfa9-7a42d7306092,House,False,0.0,0,559.44343475988,Enough air what inside buy process.,
+2023-09-06,00ffa430-2317-43e7-be86-131f355c8a2d,Apartment,False,0.0,0,835.4982965008055,Pattern ten will back result bit any.,
+2023-02-02,4a30496f-0597-4ca5-9631-c051ee9e7f5a,House,False,0.0,0,803.6975169338393,Pattern meeting they movie increase parent.,
+2022-11-09,31fdec53-0b6c-47af-925f-4f6f29eee9b9,House,False,0.0,0,334.48886260931624,Father guy put run.,
+2022-10-27,20b13f3d-b512-48be-9120-924caabe0277,House,False,0.0,0,229.63448423439831,Join minute recent can despite.,
+2023-04-23,82c07b43-ac0c-4ca1-b331-22e5b3f37211,Apartment,False,0.0,0,525.0128963592729,Create material economy mind because story.,
+2022-10-13,d368ddf0-6036-4029-a74a-e25498911c32,Condo,False,0.0,0,578.770260667694,Lot ten government direction.,
+2022-12-07,90b20b79-79cb-4b71-bf01-92c37a3a1ba8,Apartment,False,0.0,0,884.5140230294624,Interesting current president we performance.,
+2022-03-28,c4d5ecc9-f70c-449d-9919-81df90076449,House,True,3706.8114282784763,15,499.3149073068677,Personal positive interview whatever quality student.,5.561911074673009
+2023-01-15,595f3ea1-b56d-4498-b2f5-cfb2cca4f7f9,Condo,False,0.0,0,166.222095406685,True performance sign sister himself teach wall trouble.,
+2023-04-16,243273af-9281-4c02-ba52-11800bc9d45d,Condo,True,7183.092732602245,14,498.4717197881549,Interest third party ago wait.,48.470312285536735
+2022-02-06,2f9c2281-88c8-4e3d-93a2-a05e5b5ce749,Apartment,False,0.0,0,111.24632633211617,Commercial work affect important skill.,
+2021-09-14,dc2fa449-27f1-498e-a0c4-6ce9ce050629,Townhouse,True,4392.64578687516,22,460.03398078134586,Not usually eat our for.,82.15685834752355
+2022-07-01,10fbf0b2-8f8a-409d-807f-748c9ecac319,House,False,0.0,0,358.59701330328386,Building beyond lawyer.,
+2022-11-01,17a1f0b8-3864-4bdc-883c-eb9bc964dcbe,Condo,True,3541.9516640472602,11,183.5250186380561,Soldier myself food painting rich purpose church true.,24.1557300964093
+2023-04-06,7146c7c5-ace9-4c5a-bc56-d90fa44f745b,Apartment,True,2544.4821440076616,23,379.83684923813615,Us finish stage where goal.,60.518409710728946
+2023-05-12,9526f65b-4e86-49d2-8b28-d11ecff198b8,Condo,False,0.0,0,287.9394366837293,Above article student culture interest take management.,
+2022-10-06,4958ecc6-7f3b-432b-8dd4-4c54eb155019,House,False,0.0,0,589.4265562691959,Director suggest light item character.,
+2022-03-26,261e7af6-74ae-4cff-a751-afc2a3e35358,Townhouse,False,0.0,0,379.5771099148627,Born than big perhaps college.,
+2022-03-31,eeaccb1d-0c45-49e5-b218-4491b84d602d,House,True,4063.233613372907,15,767.9034146979479,Person media fast next ahead indeed.,17.8592740241446
+2022-04-28,c939748d-19f8-4aef-a91c-0063e37ec008,Condo,True,9848.678869112087,21,383.00436833840837,Seat occur citizen feeling provide.,31.835407835446272
+2023-03-18,c6b9cecf-8e5d-492b-9402-09092c94646f,Townhouse,False,0.0,0,384.14875119030796,Quite remain worker how point sort drop.,
+2022-07-12,179894b5-c145-4bf0-ac85-b248c2c0041d,Townhouse,True,8435.44469818374,8,178.6260081207115,Article morning thing allow rule.,93.33720695370955
+2023-01-06,673378d3-14ef-4efc-81f9-8696288ec05d,House,True,5016.680439867102,16,243.05609586073348,Director want kitchen material parent.,67.53744874497467
+2023-03-07,d5251563-bb8e-4d8c-8e42-20ae6c62505f,House,True,7292.021475351024,19,858.8455396328236,Because law long.,62.93520042492221
+2023-02-28,33dd55f9-4f26-4b12-b920-675ce93e5e20,House,False,0.0,0,541.7425176586328,Beyond never behavior speech follow.,
+2022-01-10,93d64bb9-989f-4c36-9c21-cc0a4229dd0c,Apartment,False,0.0,0,881.9124409115652,Avoid indicate particular plant man.,
+2022-11-10,18490670-261d-4ca0-855a-ebe0a7402615,Condo,False,0.0,0,308.4953753977411,Buy once after suggest state.,
+2022-01-23,942b81a9-8510-455c-8c02-b2936dfbaff5,Townhouse,False,0.0,0,785.6800319204807,Those civil arrive according.,
+2022-08-25,a25412e4-9a1a-4e33-9355-9d952430b017,Apartment,False,0.0,0,874.2484650818996,Recognize opportunity ground site ten reflect major ever.,
+2022-08-28,93026ee6-02a1-4fc9-830c-43d697d7092a,House,True,1921.4783014316647,2,947.0493906745834,Sing source hair out respond century response.,64.78313984040672
+2023-03-06,c767c002-211c-4b27-8f94-0655133ea343,Townhouse,True,1944.1214558452843,6,512.4770658386842,Store space piece participant eight mouth.,4.840112481905412
+2022-03-12,0717bc98-c7e6-43cd-ad25-28fc2686f7a1,House,True,7383.628002898016,16,451.28682498408176,Myself language life opportunity low.,3.4494293357647865
+2023-08-01,59e8cc89-8eb0-4353-a840-1e541b98883c,Condo,False,0.0,0,242.2020364935474,Fly star prepare and.,
+2022-11-21,29ee4304-558e-44a7-9d86-94e93c571726,House,False,0.0,0,992.026409913075,Fire peace story behavior sense Mr.,
+2023-07-18,9a41d8a7-e04e-434b-b6a5-0485e265db5f,Townhouse,False,0.0,0,820.6935544558156,Claim sure window assume good level according.,
+2022-10-26,fd47761a-7966-4532-ab0a-22a097201f38,Apartment,True,3423.354795484518,5,629.7386397731202,Particularly without have choose city especially someone.,84.91913013577016
+2022-10-28,6f970af2-0dc6-40c2-9265-38b2121dd88d,Townhouse,False,0.0,0,675.9276583194452,Popular impact tell truth right.,
+2023-03-22,812c62a3-08c0-41dc-bba0-958cd88f0cc0,Condo,True,5136.151019534706,5,629.8103101053205,Teach fine scientist bit mean.,25.956706723169564
+2021-09-11,c113228c-ef5c-40c2-ab68-e4b634167909,Apartment,False,0.0,0,481.17511593463905,Special door color have design.,
+2022-02-21,9b25a703-e466-4df3-868c-cc9f1f799f35,Townhouse,True,1483.242053284151,21,233.47933342390633,Rule its laugh step store seek.,40.73837590219305
+2023-01-27,a39ba4d2-0b33-46db-9b39-25fc952b3e62,Apartment,True,3834.2481114382276,16,666.2719276343905,Evening choice east order field small.,79.54483330066108
+2023-01-18,253e72eb-a240-46de-aa00-b2a96b62eaea,Condo,True,1942.217061268911,1,848.6711153820803,Police wind student difference season short social camera.,23.812818700587968
+2023-08-21,e37cff86-7d6a-4126-925e-a4a79ce0f140,Condo,False,0.0,0,239.4904185359149,Million plan reduce politics structure.,
+2022-08-17,62d37496-3f9d-4a5c-afd5-3d4f512b34cc,House,False,0.0,0,536.6347916752193,Others myself light.,
+2023-06-19,5ca70c44-4d64-4e3c-bcf9-ac5bc7bb7e5c,Townhouse,True,9052.657840931155,11,794.959990668339,Job Mr them against start safe impact.,40.67546952264257
+2023-01-27,1cbc5304-ebcc-4625-9a1a-af5f644abe2c,Apartment,False,0.0,0,350.36344465375294,Happen building bit cut manage good.,
+2023-09-07,4e9dd0b4-1104-45ab-8fcd-17823515d16d,Condo,True,1707.511767168783,17,865.2814832730639,Sit choose person Congress.,10.897932931166432
+2023-02-23,d1a3d928-08e3-44fa-95b6-82ea03b07dd0,House,False,0.0,0,467.2187638547779,Great sort chair.,
+2022-10-25,0f87c639-97a4-45ec-9734-362584cf4317,Condo,True,7219.496340169542,12,794.6130634137714,Imagine scientist bag avoid central difficult.,98.40366908556888
+2023-06-12,e3fcc424-e8b3-45d4-b79c-9b494b0de06e,Apartment,True,5102.240372220574,8,584.7461451002771,Job tree because physical allow strong themselves.,40.71455590482269
+2022-07-15,1c2a9c41-5a1b-41c8-825f-715443701209,House,True,3496.1824939323906,16,576.3328958690254,Help indicate lot still.,54.094497045807046
+2022-08-03,e8b4419a-acfc-4183-9de1-c141aabe5320,Apartment,False,0.0,0,146.68950575990846,With seem give participant.,
+2022-03-25,8e5d7b29-5287-441d-9c01-5188960b53e1,Townhouse,False,0.0,0,951.9921265795969,Really traditional standard thus.,
+2021-12-29,1e25caa5-b02a-4247-880b-aa796495837b,Condo,False,0.0,0,809.9995771371862,Can them capital any once.,
+2023-06-10,57d22813-5a51-4a5a-9b3c-212418839bbc,House,False,0.0,0,389.68413887283356,Almost could rock whether what table.,
+2022-07-10,74b42b10-273c-4950-a8e9-d9c5939513a8,Townhouse,True,4460.634741003546,21,266.6008874715578,Beat pay record address no field spring though.,27.27508729329946
+2022-10-23,aff0668a-acec-4515-aceb-3bd26ff61f83,House,True,2073.7732736082116,15,837.5066287391813,Reduce without choose news.,39.81842078765327
+2023-05-24,0eaa2329-7f81-4b45-8ce9-e472f96d67ad,Condo,True,6876.433723279248,1,192.1061114637776,That modern tonight yard mention democratic couple back.,26.749229001137632
+2022-04-07,c3f95b98-b275-46f5-8d7d-27076866459b,Townhouse,True,7668.177820111853,13,603.5749570699558,Choice water end officer deep health.,68.22088458333947
+2022-08-01,24f136ef-3ad7-4136-adb1-d7818d2fe2de,House,False,0.0,0,892.8942351333793,Real charge run hotel while property since.,
+2023-09-04,b421b743-e1ca-4f21-aa54-ca165faaea2f,House,False,0.0,0,964.4494575561507,Race car card operation raise mission.,
+2021-10-27,c0109886-ed8e-42de-ac43-8147a31a3641,Condo,False,0.0,0,685.1938884288086,Each wife fund red room.,
+2022-10-06,38b8796c-baaa-4ba2-8323-b9f1cb45a3a1,Condo,True,5434.246061321914,6,481.0496925520993,Agency cover manager at could.,39.9775788564934
+2022-06-17,547892d6-ed15-4ce7-ae0b-9320c1d8efb1,Apartment,False,0.0,0,801.7393141956123,Source challenge employee say nature director.,
+2021-09-12,eab74257-c88e-4b53-9f93-d02dc0df66e4,House,False,0.0,0,226.10124927785222,Artist range factor at fund art movement.,
+2022-07-29,4e3154d0-11d8-43e9-be56-abeb64d67d72,Condo,True,6518.280390855851,8,737.439949110833,Production station water green.,64.92107644404658
+2022-09-27,bfe29202-4c7a-45e4-b505-d19947a27422,Apartment,False,0.0,0,454.7135353121064,Though wonder bed society behavior a truth gun.,
+2022-07-02,28223c93-bab3-40e6-9330-048dccc4fc8a,Condo,False,0.0,0,883.0738700547329,Quickly imagine trade front too seem.,
+2022-12-25,bfb20c06-b720-4427-9426-f4a470acee7a,Apartment,False,0.0,0,722.5584901537183,Start prepare plant light.,
+2023-04-25,cb483195-a6cf-4fd9-81a6-64c459ac89be,Apartment,False,0.0,0,643.567293127671,Need sound need happen believe.,
+2023-08-02,7d42c3aa-eeed-49f6-82b9-7d3157643c12,Apartment,False,0.0,0,734.4138847118237,Couple where break number everybody trial.,
+2023-01-19,e0564c03-d316-4086-ac5b-7f28e97df4b0,House,False,0.0,0,356.69928164408327,Only boy low politics home forget.,
+2023-06-22,0816061b-6919-4075-a2dd-a789836ccfc1,House,False,0.0,0,141.23787925518673,Far course approach certainly.,
+2022-06-15,1b6390c3-c273-4a5a-b4b3-ac6187ac378f,Apartment,False,0.0,0,598.7822678260209,Make edge create program rule find.,
+2021-09-16,473acb8b-d75c-4dd9-82fe-66ea6878c716,House,False,0.0,0,595.4408721668565,Large cut something series become physical.,
+2023-08-06,edb21c4c-6098-473e-b4d6-1b416a387d11,House,False,0.0,0,634.5359485407338,Assume physical reveal nearly poor security.,
+2023-09-01,3bd52dac-157f-4fb0-babb-e9e891a20270,Townhouse,False,0.0,0,790.1760250677439,Need trouble not ahead option explain certainly.,
+2023-08-04,7eafc801-5c0a-47f5-98bb-e310859e8c3d,House,True,6473.062741903164,11,522.1661669245973,Spring perhaps western do record father card.,82.3439353510131
+2022-12-29,70757ab9-2c4a-43e0-b3f8-1602da13dfc6,Apartment,False,0.0,0,183.13489411589268,Scientist own head at crime tonight such.,
+2023-07-29,2f13d3a9-d37e-4d67-a451-77c86b21a1cd,House,True,4628.506912713998,8,993.0748802515978,About card thousand low begin.,91.82422877619761
+2022-12-01,77a3d4dd-a5e6-487d-b066-96429b75cbce,Condo,True,9483.592962059749,3,671.2154961167064,Specific subject prepare early particularly can.,42.57939612249074
+2022-09-18,12dc1cfc-1221-4641-a1e2-59d842262c66,Condo,False,0.0,0,411.39533797908285,Hotel affect rather.,
+2021-12-07,d6b2ced9-5180-4694-ac2c-29669bd9a650,Townhouse,True,8670.017474188393,23,677.413724002175,Box bed suffer at.,71.14661092093519
+2021-10-30,c4f0b00f-9d50-407b-8471-0d8410f8ba73,Townhouse,False,0.0,0,764.2590612220224,Term their teach president while.,
+2023-06-10,6587a184-987a-4359-8efb-1d2df5aa6879,Condo,True,4925.928500073402,11,376.7322274566334,Message girl stand build husband.,84.22139811208767
+2023-04-04,af51fc8f-b7d7-43a8-b013-1de1985f923e,Townhouse,False,0.0,0,783.4010583350689,Away build everything within.,
+2022-12-25,2e78daa6-1a45-400f-96d9-b0bb73c8f496,House,True,1985.6533726063255,10,537.1344185304255,Top during section.,23.20450553501813
+2022-12-30,278933e7-da36-4d64-b6e5-71dff90ac78f,House,False,0.0,0,813.4573134025761,Break house central force much price newspaper seek.,
+2022-12-02,b4dbfd33-373e-45e1-927c-e92de2493e22,Condo,False,0.0,0,217.48764408567058,Despite memory tax mission.,
+2021-10-06,e3562ec5-e1df-496a-b023-a1200773fb21,Townhouse,False,0.0,0,449.22100598633807,Senior anyone better city.,
+2022-06-24,f934e946-d1f9-48a9-9763-c6a4daec227d,Condo,True,2055.2639936650125,10,499.59231882707013,Read exactly way prevent.,83.12395430032012
+2023-02-14,62c74797-7c72-4510-a871-4b53b78e414a,Townhouse,False,0.0,0,518.8183940826342,Camera explain those pattern receive.,
+2022-07-17,ce0329af-60ea-4740-96bb-92440409db92,Condo,True,7797.430718917891,6,794.3524259464139,Anything who family scientist around turn late approach.,25.521554041560545
+2022-02-09,2bfb85cb-4857-4a3d-97da-49422144ebf6,House,False,0.0,0,453.0985400954936,Truth author moment hundred.,
+2022-07-23,788cf108-11b3-4548-9fd2-26d4003b469b,Townhouse,False,0.0,0,720.2273694588433,At great wonder.,
+2022-12-14,1718e001-cf4f-4ea4-9b4e-e31641181bc9,Townhouse,False,0.0,0,204.44039979950466,Not picture account sometimes sport dinner reflect small.,
+2023-02-17,be45ae9c-f028-4555-8124-5fc6bc481be0,House,False,0.0,0,584.8778757113755,Page again trip seven sort her.,
+2022-07-02,61b82479-9a69-4afc-bc7f-02ea20803f2d,Apartment,False,0.0,0,921.608616815506,Travel job by subject.,
+2021-11-06,b587eff3-510d-46cc-9ea4-93e68675a299,House,True,4903.826530503138,17,223.4748473016426,Through wife nor question one work environmental.,26.142962128361457
+2022-11-03,e55b4261-4b8e-4c9b-a3cc-c84f059fcfbd,Townhouse,True,5252.2679588954525,23,962.4063936508671,Market reality only speech issue.,99.47183647518555
+2023-01-23,053fe9e1-a285-4844-b584-0bc9ae68ea35,Condo,True,6090.575902362264,13,280.93213378825425,Plan training Mrs research body beautiful.,5.293588811946237
+2021-10-03,5b727028-1718-4980-a7d1-fb8c97bf80c7,House,True,6319.135466145674,14,879.3698862782858,Carry sell effect land leave.,38.53003529344976
+2022-04-08,59a420c2-f6cb-4410-8218-42bda26f3eb2,House,True,2059.1024417824883,18,213.06677752165916,Do dog could matter.,43.22167197010289
+2022-12-14,0e66a951-5fbb-4d20-a5ce-c6cfb5b0d436,Condo,True,4095.8495663981794,24,443.9130549273907,Building young more.,58.75260789940069
+2023-03-31,f0162c96-9880-4e56-a677-366c3d2a94bc,Townhouse,True,8737.95372420835,17,480.9857395457022,White represent trip allow marriage.,15.08866573398353
+2023-05-25,380a2fa6-41b3-438c-a342-ebb893e04569,Condo,True,9994.640239636978,12,707.583066530153,Republican collection thought.,0.9092144318514683
+2022-12-09,12e79246-15f2-4a14-913f-b219fb5a5e2c,House,False,0.0,0,481.27667681586365,Remain process scene model member.,
+2022-11-02,afad80f9-508e-4dd8-8758-4f08fa78f3e9,House,False,0.0,0,643.5133834752904,Magazine along value series responsibility.,
+2022-02-28,411afee5-de34-4a25-9800-5018ad34a89b,Condo,True,2198.0852093027916,1,646.0226338679237,Government consumer others any.,26.267973294576265
+2023-01-19,2be3e4c6-77d4-4f59-89e5-790b2bd825cb,Apartment,True,5869.195022110834,6,840.1863825669951,Mrs exist discussion others cultural kind.,50.326913720528154
+2023-05-27,2efa787d-efbe-4d0a-9292-a818cfa33757,Condo,True,1006.2333056221248,2,966.4320498085816,Boy use suggest much challenge.,55.990845258976385
+2022-11-26,4ab99e83-5436-48a4-a742-a35c4d4d0ac3,House,False,0.0,0,116.10955896783753,Become large stage their.,
+2022-10-25,870e99c6-9697-4eee-9b9e-4e2e54af684e,House,True,8963.118269466966,11,984.097022885981,Sometimes as day pick explain plan call.,73.02153541706919
+2023-08-17,6795037d-7a17-4e88-88d1-a013f5b1f1e0,Townhouse,True,3467.27779770067,12,968.3104004279348,Around gun different eat side speak recognize Democrat.,36.15481717023571
+2021-12-07,eb9393fa-1ae4-4334-8bc0-bfb54811b93e,Apartment,False,0.0,0,663.3789549838747,Team citizen parent phone.,
+2022-10-10,a94e6893-96ce-4b79-933f-ff795bda0717,Townhouse,True,8094.007894063647,9,614.1583290824536,Mouth toward else organization mother sport six traditional.,57.052503849187644
+2023-01-05,aab39582-2825-422a-a3bf-a8836a87b0db,House,False,0.0,0,706.9422665319107,Arrive explain new detail lot.,
+2023-01-14,112be9a8-1a01-4fd8-bb7e-cbefe2665cbd,House,True,5573.011815191552,12,161.7500910859957,Week whose recent third win pass model.,11.741502574152051
+2021-09-25,2f18618a-696a-4016-b7b1-2cad43b6fb19,Townhouse,False,0.0,0,217.4530572542764,Simple song many behind recognize.,
+2021-11-12,21bd0169-d5d9-4cd3-8a3a-bc4cca19a483,House,False,0.0,0,271.0170664387957,Force movement few my.,
+2023-05-22,0e3381f5-aa4b-4fa6-828a-6500f4a931a3,Townhouse,False,0.0,0,573.3356748906597,By memory middle garden.,
+2022-08-17,02e33d6b-b0dc-414c-87af-11b4cb871920,Condo,True,5064.106335571867,23,673.0572093461394,Vote expert position attorney energy across.,52.05913381297636
+2023-05-29,55225ddd-399a-49fa-952f-6418952f50c0,Apartment,True,5152.405692370355,21,418.16426071097504,Rather couple sort common two side.,33.654866999768664
+2023-05-28,7cc57bb4-a7ed-4d76-9c24-08aa1dfa1032,Condo,False,0.0,0,827.6995072195069,Production our wife hair.,
+2023-01-24,5fd98670-7fe3-4c55-a082-901e2ad8b3fd,House,False,0.0,0,389.42494219594386,To blue usually project under number agency.,
+2022-10-17,7d5c5837-93c7-4935-8b60-538544708ff8,House,True,4776.165880119505,6,272.33695098242913,Its easy customer miss.,19.698279114945482
+2023-03-30,8dfdb085-7b0c-4600-828f-5e3c0cc157fa,Condo,True,4080.8913426642007,12,298.9246465123755,Without car water.,38.02952660587946
+2023-08-03,7f83eaa7-8920-407b-9134-f7121c36ddf0,Condo,True,8196.434673669919,19,283.977876163436,Season physical right billion wall and building.,69.82883365061193
+2022-05-23,c9e2c940-ba63-4524-a948-f60c62bb1323,Townhouse,True,7164.405865702874,4,879.7566699659262,Among fly pretty hit our north care civil.,26.380625366761844
+2022-05-28,6deaddb1-1d71-4892-90af-e906a297e3ba,Condo,True,4692.674300003457,1,428.5590568297583,Economy indeed close order program.,29.40726485605767
+2022-05-15,dd83522d-a6e4-43c5-b16a-0e8bb0fd1f96,Apartment,False,0.0,0,699.5550119727267,Service surface week early entire green herself later.,
+2023-09-01,f53fa385-008f-48a3-afb6-c9b7d44a07cd,Townhouse,True,5758.443213833074,21,718.1228710005552,Near pick technology support.,46.293429346755666
+2023-04-23,8ca74f22-203e-4d12-9b4d-a08bc9aa79f5,Condo,False,0.0,0,788.1699640943135,Bill both practice contain whole green rise ball.,
+2022-05-01,ddf49fec-57fd-4728-8169-98eb1b78b865,Apartment,False,0.0,0,143.280486391776,Quickly wind shake identify Congress buy we.,
+2021-10-26,2dfbc473-89ed-41d7-abfd-60be763e2acd,Condo,False,0.0,0,315.5841201427728,Guess prepare compare throughout small build everybody.,
+2022-08-09,76ac872f-2b48-4f6b-b7ab-4ee5934c2ea5,House,True,5408.006573015071,21,461.2548545980048,Event three man wrong employee second.,32.8055365273634
+2023-02-27,3e76c835-cc61-4e90-90e1-ba1431cf6479,Townhouse,True,7963.906153099896,12,213.3083542635705,Beat particularly attack race above.,10.184239758098945
+2022-07-27,00bde1ec-fb18-4c88-90b0-4766da1b9161,Condo,False,0.0,0,730.042367214026,Doctor boy success left also detail poor.,
+2022-10-23,4bc1079a-74f3-4e00-b187-e5d94c41a179,Condo,False,0.0,0,821.8303804704763,Over technology kitchen call truth.,
+2021-10-17,b8df0732-6dfd-4fe4-a2b3-77bb8ed20605,Condo,False,0.0,0,614.0713265152693,Wide half several unit fall forget plant.,
+2021-11-06,4172f157-288e-492b-897b-8f1324d32da4,Townhouse,False,0.0,0,164.31762726121445,Wish argue hear window might.,
+2022-08-06,9123f8bd-8da9-4367-8569-497886921d34,Townhouse,False,0.0,0,849.8406026429446,Simply concern concern serious truth show.,
+2021-12-28,f86d6560-727a-44e5-b369-d5e2e15c6bd7,House,False,0.0,0,738.3695998625275,Book own establish career over.,
+2022-11-22,f8485000-34a3-41e0-b20f-f1768007e99e,Condo,True,6663.06614574861,7,568.241023905108,Show consider event him visit level reduce.,35.88744969469075
+2023-03-23,393d6991-e27e-4a2d-9af9-8219ceda723a,House,False,0.0,0,233.12797755973202,Specific different a fact husband among likely.,
+2022-10-02,39b5425d-990d-4af4-abbb-4a9869ffacc3,Apartment,False,0.0,0,236.55034278553885,Suggest rich statement ok today.,
+2021-09-09,c27a41dd-58e8-494b-99a9-fd80e46a9089,Townhouse,True,3894.922106382528,19,850.9294897229553,Think voice appear sell through data other.,95.46929076196568
+2022-01-05,d9bcb117-8dad-4556-9cdf-feaf2fc5ae55,Townhouse,False,0.0,0,779.9796914900274,Part represent stage support staff they.,
+2022-11-06,fd0edb8a-df85-4f86-8d1c-b05c91510e4c,Apartment,True,5506.029590572734,15,922.7964889553645,Under meeting find.,27.338920186291027
+2021-11-04,1d19d051-d991-49ab-8ddc-fe5b9dac6ceb,Condo,False,0.0,0,662.6217369170934,Choice type brother school.,
+2021-09-15,6390b2b7-8171-45b7-a526-5f84c313cfbb,House,False,0.0,0,305.02974016385747,Nice reduce land whatever region.,
+2022-05-15,7469b241-2fd9-4889-953a-3cf6b5a3999c,Condo,False,0.0,0,722.9117999946545,Sing include control by require.,
+2021-11-27,92906e4f-bd53-4267-83e8-a2d3519b63c7,House,False,0.0,0,828.1985357434106,His property bag large small reflect.,
+2022-11-16,36a6a41f-eb91-47f7-8414-e6e7aab2cf48,Apartment,True,9743.179729096762,14,881.8684221820756,Meet rich so goal whose generation pattern.,87.88436485633542
+2022-06-13,b7593348-cd0d-4381-93e0-53ec3318f798,Townhouse,True,1390.7414113740444,16,265.3588548690785,Agreement tend of under trial star station raise.,42.30946834466089
+2022-10-26,1dd8c6ca-544f-4d14-a9d6-86aea8335354,House,True,9898.93524437704,23,580.1528662326963,Total industry people for these.,26.457788044443465
+2022-08-27,89acb0f1-35e7-41e2-883e-93282881db78,Condo,True,2490.239898326453,19,873.9371520021749,Standard western mention go benefit.,58.49937738073947
+2022-07-23,5e3c1c1c-3ddd-41e8-91d8-0fb7c96ca7eb,Apartment,True,9460.161091034957,8,472.17889187935714,Human space college put.,31.178198773354836
+2022-10-04,cce1a4f8-2902-4454-b478-c5b053e3ce4e,Condo,False,0.0,0,297.70655821001924,Lay more sell stand security admit catch.,
+2023-08-02,97f3e434-a5bb-48c3-978d-cc992146b39a,Condo,True,3060.5318334373846,20,154.5259635021113,Always animal local cut top fund safe.,43.172905702191585
+2023-05-07,1cea05ac-4fdc-499f-8f25-a4e5d401bae9,Townhouse,True,5073.15223324995,3,759.6786328824326,Behavior trade television project.,92.05274284014013
+2023-03-11,ccb82800-2ccc-484f-b4e3-61dd5982e934,House,False,0.0,0,101.13836518568965,Fine yet office speak what.,
+2023-04-03,bcdaf851-56c2-4b68-af31-754a8996e96a,Townhouse,False,0.0,0,671.4791644508919,Raise important development pull such own.,
+2022-04-06,b560dd8d-19fc-4fc5-9ba2-f6e1d5c0ce2d,Apartment,True,2505.9121400799577,3,196.8000801067543,Series soldier window series little.,26.56483305095405
+2023-07-15,96749503-54b7-4ee2-8cfb-f953b21350b6,Townhouse,True,6617.035102592039,11,773.3842374010595,Produce treat reality.,26.064452332421684
+2022-08-16,c868aa95-8c67-4f1a-8a1b-a5093d78ed3d,Apartment,True,5367.300234572857,12,638.0636221397028,Arm party follow same step forget.,19.549157594380095
+2023-06-12,41c3f38c-f912-448f-ab5d-82af0edca755,House,True,7356.4865963485445,11,366.06368291923087,Rock north action population wind moment.,70.78574960721771
+2022-11-22,173d00f5-a995-4750-b1a5-8c40682246cf,House,False,0.0,0,717.8086691252064,Push song them step future.,
+2022-04-04,af0f2aa9-5b24-46e7-b301-eb3a56c4ad49,Apartment,False,0.0,0,550.2351201471517,Low lay throw entire different.,
+2023-05-13,628312cf-9c2a-408d-84aa-5c1b29c7b633,House,False,0.0,0,374.09184366386916,Go next yourself stay.,
+2021-12-05,4d475fc4-2f18-4489-a280-86bb86594dc2,Condo,True,3160.0534544874185,24,395.20840202713737,East officer man summer identify matter material.,60.02438640940898
+2022-02-15,28f7656d-c7c4-43cf-b924-a229921d1564,Apartment,False,0.0,0,169.30532190363243,Note good hit first data.,
+2022-09-24,a2b5808e-f912-49f6-be91-292be1aea424,Condo,False,0.0,0,963.8885018084677,Building scene myself generation each what.,
+2022-06-25,780e9b34-f9a0-4ac1-a513-35bddad7dab1,Townhouse,True,6234.3696799801255,8,154.95223423116556,Red measure administration try growth situation.,84.34494334709241
+2022-07-05,c0c0eb3b-3566-4261-bdb7-2c1b4874a5c1,Apartment,False,0.0,0,458.93134892462723,Approach night idea degree during people use skill.,
+2022-05-27,a336fe51-d5e7-4f50-954d-5d6dc2c51d48,House,False,0.0,0,689.9396465428895,Affect decade air clearly.,
+2022-12-03,ded25e2d-4687-443e-9cb7-97b02011f4cb,Condo,True,8659.329775282156,24,256.1257818912271,Your may executive administration high.,23.935678691286288
+2022-07-04,6922d481-f279-4cac-91e7-27ae78dfad86,Townhouse,False,0.0,0,506.0088675886799,See financial best think rock.,
+2022-02-28,7590cf64-5cfe-4dc3-9d09-8a147cc684d7,House,False,0.0,0,470.281938796703,Board itself nearly life side.,
+2023-02-01,090a527e-bfe5-4750-9558-82886b38a4eb,Apartment,True,1606.5126471200058,3,426.7397241446525,Pm lay usually store paper wife after.,88.95488915692977
+2023-03-14,1820f9f7-62c7-40bd-9b92-53850084e1f2,Townhouse,False,0.0,0,174.52982421015616,Until keep hot process book hundred.,
+2021-11-19,5becacf9-ebdb-4e6f-85c3-56664467d37c,Townhouse,True,2270.0657057097715,4,260.20159813219675,View outside himself cost.,2.367151184608751
+2022-05-21,4f4f1834-09a5-4944-a60e-5bb5b51f6e91,House,False,0.0,0,389.9006335451856,Idea stand community not dream sure.,
+2022-11-01,206285eb-c7c7-45fe-b1b6-4470fb23b86d,Apartment,False,0.0,0,976.5646947708834,President local approach able nice nice.,
+2021-09-12,bae5bd76-b05b-4ff6-9afe-d759b9d17647,Condo,True,8174.570499158907,6,309.8753750465536,Thing might box give in.,76.5877760928323
+2021-09-23,f2e07771-4a42-4fc5-85fd-09d58ac80c71,Townhouse,True,7457.391975528557,5,794.807019251967,Toward finally social no.,7.2115634585490085
+2022-01-04,ed6d0836-1abf-47e7-8b8b-469757c81b38,Townhouse,True,9080.488447337362,6,957.4047526067448,Herself radio church.,75.13670364921255
+2021-09-16,7bf1a94b-5868-4134-90fd-2b56d9feb600,Apartment,True,6729.211039488042,12,429.4209263551628,She soon thank interest believe may particular.,31.970673024477804
+2023-05-11,dfd2c202-1d9b-4a80-a3d2-ee02cc15363e,Apartment,True,7147.292048228455,16,658.8629672602158,Tell more member.,33.66420223893043
+2023-05-16,7b400780-0293-4c92-900c-760ce38ee879,Apartment,False,0.0,0,883.2274456741033,News meet exist sign chance interesting economy son.,
+2023-02-27,a49ea798-be91-4c0e-9343-4614f16d0277,House,True,4971.314062741025,16,319.16831990351125,Student anything listen base move Congress.,25.138594129755543
+2022-07-07,1ae7fd33-0483-4623-844b-988b0d388b69,House,True,2432.128499759021,8,750.4295516394342,Talk star newspaper campaign other morning huge sit.,99.82207605133173
+2022-02-14,87c09a54-23f4-4b86-8f36-ca8b951b95fe,Apartment,False,0.0,0,893.8637881853844,Firm color check among election son.,
+2022-11-26,273feaf6-38a5-4820-b159-a657cbd15a27,House,False,0.0,0,460.6409073530451,Result TV matter nearly leader foreign voice.,
+2023-07-05,8ab5c9c6-6019-4d9a-a907-96bccca6c969,Condo,False,0.0,0,263.80026065811455,Around others dream degree.,
+2023-03-18,3bbe69bb-6d78-4b00-9314-01190cf6e51d,Apartment,False,0.0,0,931.5995715157993,Force interesting maybe.,
+2023-05-17,2aeaa382-6f3b-4af5-9c05-f58ad5bef937,Condo,True,2079.3373903607708,8,508.0341401989641,Road around job skin road each let.,13.495220415279352
+2021-10-24,89c70a30-4074-4c92-991c-74ba39396eb4,Condo,False,0.0,0,338.2070147976086,Phone thing goal serious surface.,
+2022-03-18,6517e3aa-b4b3-4752-83ec-841a5bb42e0d,Apartment,True,5231.178026420829,10,730.5741437695798,Every work yeah give sense issue.,90.385075942752
+2023-04-21,8ab75b53-c1e5-4f0b-9c6c-16bda127f7e0,Apartment,False,0.0,0,613.2825799341807,By along and watch man.,
+2022-09-12,721c4e7f-ddfe-4168-86a9-95f970407f02,Apartment,False,0.0,0,549.2760127431395,Light hard half however.,
+2022-11-11,76986c92-2687-4ff5-9700-b069e6fa030d,House,True,4572.044621894699,4,394.957836423918,Nearly former within before.,69.36856179605681
+2022-03-12,9dd6da86-5380-44a4-9a22-48a58ad886bb,Apartment,True,8962.688636699255,17,369.3489952976983,Process international establish race.,47.48339437673379
+2022-09-15,0c8298ec-ddd3-44e6-b4a9-cef6723de02a,Townhouse,False,0.0,0,470.0821315644931,Be career evening add point financial often fill.,
+2022-08-31,bdedf115-83b5-44f7-8268-1a2da8e1c649,Condo,False,0.0,0,972.051101080124,Move natural recent since perhaps.,
+2023-06-21,a28ac620-5342-4099-b3f1-1893a6c66a75,Condo,False,0.0,0,235.55447410633025,There station high law rich modern do economy.,
+2023-07-29,2addf9dc-a685-423f-863d-01ef184cbfda,Condo,False,0.0,0,292.0984169827435,Wrong single seven toward democratic these.,
+2022-12-29,c05d3dac-6647-40ea-ae30-bc97d42bd610,Townhouse,False,0.0,0,461.71114141766753,Attention five benefit image hundred popular size camera.,
+2023-06-11,6abd181d-5352-4161-a7ee-ac3e09a23111,Townhouse,True,4544.402988204178,2,438.7722437334254,Man theory arm east yard.,32.828049780509296
+2023-02-26,101bb8b2-8b2d-4cbf-90d9-6105895afde2,House,True,3649.355764062144,12,166.08051224308758,Assume write laugh voice interest daughter.,38.274002274743154
+2021-10-19,29b9b49b-9da6-459e-a753-ed2baeeb5ecc,Apartment,True,9442.030748968213,11,875.0843685509753,West growth down move set.,68.36888311398096
+2022-11-13,afc53f47-e737-475c-8f61-c754614eb44a,Townhouse,False,0.0,0,168.70981273360502,Main own not while lawyer morning.,
+2023-04-24,f683d9bd-6924-46ac-a1f7-8153b0c077b9,Apartment,True,5492.864017018801,23,973.187172660425,North management operation answer hundred road.,89.82524237972956
+2022-09-19,b4bda287-eb67-49a9-a03e-a072327ab1b6,House,True,3012.0562061818455,2,542.8162742649525,Process record high language product day box.,91.47609093519688
+2023-08-03,c8d85a3a-beb3-4fc0-998b-afda0af897f8,Townhouse,False,0.0,0,820.7595318543416,Will save modern other.,
+2021-11-11,8a127a4a-9c52-4bae-a70b-675695774938,Condo,True,3914.227005537562,11,962.9385516173584,Sing southern behind attention time hear.,8.905766601630328
+2023-06-29,f6ee3d3f-c02f-4b04-9b15-5c3f56daa6bd,Apartment,False,0.0,0,302.19341231230237,Law year physical produce eat.,
+2022-02-16,d6f4f598-0754-4e06-80a0-774e0c306406,Condo,True,3583.3375890188076,8,163.61469253763062,Home become bar bad fund middle crime.,39.97373174846932
+2023-06-12,b2cb0ea1-ec5d-4dfd-b37e-3045eea9ece9,Apartment,False,0.0,0,542.6611011324107,Trip anyone care impact guy heavy.,
+2022-12-11,c19108bc-72c9-4025-ba17-197ec3c54435,Condo,True,8856.706052397614,23,351.2282390740139,Rise court production economic.,99.8303184544381
+2023-04-18,483c13f1-abe6-4350-8b8f-77d47431d546,Apartment,False,0.0,0,502.3777644049452,Fine leg leg home raise.,
+2023-08-23,5ba840dd-c5eb-4164-a846-c9fab75426ab,Townhouse,False,0.0,0,757.1730729742354,Police want federal.,
+2022-01-26,42463fc4-3878-46f8-926c-f6404591049d,Townhouse,True,2440.9856295889117,24,611.8531754649309,Perhaps institution customer away bank consumer mother senior.,16.541309376043188
+2022-08-23,4c10c3f0-9b2a-45f8-b465-5c9e5d7bbfa3,Townhouse,False,0.0,0,987.6999832324268,Article meeting data benefit continue court help.,
+2022-08-07,e3d3c9f7-fca8-4d1a-a0fd-dd7638aa2c68,Condo,False,0.0,0,388.91549760924465,Choice that I later.,
+2023-05-03,327b8606-0f73-46ed-a19a-a6de6e4d1315,Apartment,False,0.0,0,976.9402585584157,Education result professional move record.,
+2023-08-26,6aff0bc8-2f5f-4c9c-9d82-2fb755e9e99e,Apartment,True,2298.914181479201,3,807.6329113508057,Act job account college discussion discuss positive state.,52.70022023669436
+2022-05-20,23e1c434-2698-4de6-ac4c-e19460c07612,House,False,0.0,0,739.8030431360086,Feel himself collection if.,
+2021-11-21,32d5995a-8fe5-4781-b374-5733b9262fc8,Apartment,True,8069.670693214946,14,223.2534588428818,Action his feel or north although.,56.590178833636394
+2023-02-10,a9a7bb70-9dcd-4a25-b389-0abbe540b481,Townhouse,True,2377.491733786061,21,821.0513842375518,Teach effort by cost country.,38.079652034364244
+2023-02-04,a3f0db37-8389-49ec-8761-493af81772c9,House,True,6748.588028151586,5,212.3995929150496,Mr grow close high three help.,44.86773265861659
+2022-03-02,8731e317-e31d-4d0e-9ae3-2b28023fe551,Apartment,False,0.0,0,641.5334006636855,Future high article stage last animal.,

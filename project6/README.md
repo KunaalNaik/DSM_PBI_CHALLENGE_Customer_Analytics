@@ -1,6 +1,6 @@
 # **Case Study: Development of an Advanced Power BI Dashboard**
 
-![Dashboard](Big Data Adoption Dashboard.png)
+![Dashboard](Big_Data_Adoption_Dashboard.png)
 
 #### **Background:**
 
